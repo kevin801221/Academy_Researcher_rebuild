@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YCM 學術知識蒐集系統</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <!-- 添加 Showdown.js 用于 Markdown 转换 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+</head>
+<body>
+    <div class="container-fluid p-0">
+        <div class="row g-0">
+            <!-- 側邊欄 -->
+            <div class="col-md-3 col-lg-2 sidebar">
+                <div class="sidebar-header">
+                    <h3><i class="fas fa-book-reader me-2"></i>YCM 學術研究助手</h3>
+                </div>
+                <nav class="sidebar-nav">
+                    <ul>
+                        <li>
+                            <a href="#" id="tools-link">
+                                <i class="fas fa-tools"></i> 工具
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#new-research" class="active">
+                                <i class="fas fa-search"></i> 新研究
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#saved-research">
+                                <i class="fas fa-save"></i> 已保存研究
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#settings">
+                                <i class="fas fa-cog"></i> 設定
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="sidebar-content">
+                    <div class="search-history">
+                        <h5><i class="fas fa-history me-2"></i>最近搜尋</h5>
+                        <ul id="history-list" class="list-unstyled">
+                            <!-- 搜尋歷史將在這裡動態生成 -->
+                        </ul>
+                    </div>
+                    <div class="sidebar-menu mt-4">
+                        <h5><i class="fas fa-tools me-2"></i>工具</h5>
+                        <ul class="list-unstyled">
+                            <li><a href="#" class="sidebar-link"><i class="fas fa-search me-2"></i>新研究</a></li>
+                            <li><a href="#" class="sidebar-link"><i class="fas fa-save me-2"></i>已保存研究</a></li>
+                            <li><a href="#" class="sidebar-link"><i class="fas fa-cog me-2"></i>設定</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="sidebar-footer">
+                    <p><i class="far fa-copyright me-1"></i> 2025 YCM 優克美</p>
+                </div>
+            </div>
+
+            <!-- 主要內容區 -->
+            <div class="col-md-9 col-lg-10 main-content">
+                <div class="header fade-in">
+                    <h1><i class="fas fa-atom me-2"></i>YCM 學術知識蒐集系統</h1>
+                    <p>智能學術研究平台：整合優秀記憶能力、Plan-and-execute、深度搜索、RAG 向量資料庫、文本生成與語音轉換，為您打造全方位學術研究體驗</p>
+                </div>
+
+                <!-- 搜尋區域 -->
+                <div class="search-section fade-in" style="animation-delay: 0.2s;">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-lightbulb me-2"></i>開始您的學術研究</h5>
+                            <div class="input-group mb-3">
+                                <span class="input-group-text bg-white border-end-0">
+                                    <i class="fas fa-search text-muted"></i>
+                                </span>
+                                <input type="text" id="search-input" class="form-control border-start-0" placeholder="輸入您的研究主題或問題..." aria-label="研究主題">
+                                <button class="btn btn-primary" type="button" id="search-button">
+                                    <i class="fas fa-rocket me-1"></i> 開始研究
+                                </button>
+                            </div>
+                            <div class="search-options">
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label for="report-type" class="form-label"><i class="fas fa-file-alt me-1"></i>報告類型</label>
+                                        <select class="form-select" id="report-type" name="reportType">
+                                            <option value="research_report">研究報告 - 簡短快速 (~2分鐘)</option>
+                                            <option value="detailed_report">詳細報告 - 深入且較長 (~5分鐘)</option>
+                                            <option value="resource_report">資源報告 - 僅列出資源</option>
+                                            <option value="deep">深度研究 - 多層次遞歸研究</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label for="report-source" class="form-label"><i class="fas fa-database me-1"></i>研究來源</label>
+                                        <select class="form-select" id="report-source" name="reportSource">
+                                            <option value="web">網絡</option>
+                                            <option value="local">我的文檔</option>
+                                            <option value="hybrid">混合模式</option>
+                                            <option value="azure">Azure 存儲</option>
+                                        </select>
+                                        <small class="text-muted">
+                                            <i class="fas fa-info-circle me-1"></i> 本地文檔研究需要在設置中配置文檔路徑
+                                        </small>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label for="tone" class="form-label"><i class="fas fa-pen me-1"></i>報告語調</label>
+                                        <select class="form-select" id="tone" name="tone">
+                                            <option value="Objective">客觀 - 公正且無偏見地呈現事實和發現</option>
+                                            <option value="Formal">正式 - 遵循學術標準，使用複雜的語言和結構</option>
+                                            <option value="Analytical">分析性 - 對數據和理論進行批判性評估和詳細檢查</option>
+                                            <option value="Persuasive">說服性 - 說服受眾接受特定觀點或論點</option>
+                                            <option value="Informative">信息性 - 提供關於主題的清晰全面的信息</option>
+                                            <option value="Explanatory">解釋性 - 闡明複雜概念和過程</option>
+                                            <option value="Descriptive">描述性 - 詳細描述現象、實驗或案例研究</option>
+                                            <option value="Critical">批判性 - 判斷研究及其結論的有效性和相關性</option>
+                                            <option value="Comparative">比較性 - 並列不同理論、數據或方法以突出差異和相似之處</option>
+                                            <option value="Speculative">推測性 - 探索假設和潛在影響或未來研究方向</option>
+                                            <option value="Reflective">反思性 - 考慮研究過程和個人見解或經驗</option>
+                                            <option value="Narrative">敘事性 - 講述故事以說明研究發現或方法</option>
+                                            <option value="Humorous">幽默 - 輕鬆愉快，通常使內容更具親和力</option>
+                                            <option value="Optimistic">樂觀 - 強調積極發現和潛在益處</option>
+                                            <option value="Pessimistic">悲觀 - 專注於限制、挑戰或負面結果</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label for="query-domains" class="form-label"><i class="fas fa-globe me-1"></i>查詢域名（可選）</label>
+                                        <input type="text" class="form-control" id="query-domains" name="queryDomains" placeholder="輸入以逗號分隔的域名">
+                                        <small class="text-muted">
+                                            <i class="fas fa-info-circle me-1"></i> 例如: techcrunch.com, forbes.com
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="search-tips mt-3">
+                                <small class="text-muted">
+                                    <i class="fas fa-info-circle me-1"></i> 提示：輸入具體的研究問題可以獲得更精確的結果。
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 研究結果區域 -->
+                <div class="research-results fade-in" id="research-results" style="display: none; animation-delay: 0.3s;">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="report-header mb-4">
+                                <h4 class="card-title" id="report-title">研究報告</h4>
+                                <p class="text-muted" id="report-timestamp">生成時間: </p>
+                            </div>
+                            
+                            <!-- 研究狀態區域 - 顯示研究進度 -->
+                            <div class="research-status" id="research-status" style="display: none;">
+                                <!-- 研究進度將在這裡動態生成 -->
+                            </div>
+                            
+                            <div class="report-container">
+                                <div id="report-content" class="report-content"></div>
+                                
+                                <!-- 报告操作按钮 -->
+                                <div class="report-actions mt-4">
+                                    <div class="d-flex flex-wrap gap-2">
+                                        <button id="copy-markdown" class="btn btn-outline-primary">
+                                            <i class="fas fa-copy me-1"></i> 複製為 Markdown
+                                        </button>
+                                        <button id="download-markdown" class="btn btn-outline-primary">
+                                            <i class="fas fa-file-download me-1"></i> 下載為 Markdown
+                                        </button>
+                                        <button id="download-pdf" class="btn btn-outline-primary">
+                                            <i class="fas fa-file-pdf me-1"></i> 下載為 PDF
+                                        </button>
+                                        <button id="download-docx" class="btn btn-outline-primary">
+                                            <i class="fas fa-file-word me-1"></i> 下載為 Word
+                                        </button>
+                                        <button id="download-json" class="btn btn-outline-primary">
+                                            <i class="fas fa-file-code me-1"></i> 下載研究日誌
+                                        </button>
+                                    </div>
+                                </div>
+                                
+                                <!-- 图片区域 -->
+                                <div id="research-images" class="research-images mt-4" style="display: none;">
+                                    <h6><i class="fas fa-images me-2"></i>研究相關圖片</h6>
+                                    <div id="images-container" class="d-flex flex-wrap gap-3"></div>
+                                </div>
+                                
+                                <!-- 来源区域 -->
+                                <div id="research-sources" class="research-sources mt-4">
+                                    <h6><i class="fas fa-link me-2"></i>研究來源</h6>
+                                    <div id="report-sources"></div>
+                                </div>
+                                
+                                <!-- 研究日誌區域 -->
+                                <div class="research-logs mt-4" id="research-logs-container" style="display: none;">
+                                    <h5>研究日誌</h5>
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <pre id="research-logs" class="research-logs-content" style="max-height: 300px; overflow-y: auto; font-size: 0.85rem;"></pre>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 聊天區域 -->
+                <div class="chat-section fade-in" id="chat-section" style="display: none; animation-delay: 0.4s;">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title"><i class="fas fa-comments me-2"></i>與研究助手對話</h5>
+                            <div class="chat-messages" id="chat-messages">
+                                <div class="assistant-message">
+                                    <div class="message-sender">研究助手</div>
+                                    <div class="message-content">您好！我是您的學術研究助手。有任何關於研究結果的問題，請隨時詢問我。</div>
+                                </div>
+                            </div>
+                            <div class="chat-input">
+                                <div class="input-group">
+                                    <input type="text" id="chat-input" class="form-control" placeholder="輸入您的問題...">
+                                    <button class="btn btn-primary" type="button" id="chat-button">
+                                        <i class="fas fa-paper-plane me-1"></i> 發送
+                                    </button>
+                                </div>
+                                <div class="chat-tips mt-2">
+                                    <small class="text-muted">
+                                        <i class="fas fa-lightbulb me-1"></i> 提示：您可以詢問有關研究結果的詳細問題，或請求進一步的解釋。
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- WebSocket 連接狀態 -->
+    <div class="websocket-status" id="websocket-status">
+        <span class="status-indicator offline"></span>
+        <span class="status-text">離線</span>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/dist/markdown-it.min.js"></script>
+    <script src="/static/scripts.js"></script>
+    <script src="/static/app.js"></script>
+</body>
+</html>

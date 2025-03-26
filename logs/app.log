@@ -1,0 +1,2118 @@
+2025-03-26 13:58:02,439 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 13:58:02,643 - research - INFO - Starting research for query: 2025年黴菌相關論文
+2025-03-26 13:58:02,644 - research - INFO - Using web search
+2025-03-26 13:58:02,644 - research - INFO - Starting web search for query: 2025年黴菌相關論文
+2025-03-26 13:58:02,644 - research - INFO - Planning research for query: 2025年黴菌相關論文
+2025-03-26 13:58:04,561 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 13:58:33,988 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 13:58:33,988 - research - INFO - Research outline planned: ['2025 黴菌 論文 系統性文獻回顧 最新進展', '2025 台灣 醫學黴菌研討會 論文摘要 投稿 徵稿通知', '2025 黴菌毒素 臨床影響 研究 論文 評析', '2025 黴菌 相關論文 口頭報告 主題演講 會議資訊']
+2025-03-26 13:58:33,998 - research - INFO - Generated sub-queries: ['2025 黴菌 論文 系統性文獻回顧 最新進展', '2025 台灣 醫學黴菌研討會 論文摘要 投稿 徵稿通知', '2025 黴菌毒素 臨床影響 研究 論文 評析', '2025 黴菌 相關論文 口頭報告 主題演講 會議資訊']
+2025-03-26 13:58:35,794 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:35,795 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:35,795 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 13:58:35,796 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:35,797 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:35,893 - ycm_researcher.scraper.scraper - INFO - 
+Title: 國立陽明交通大學健康創新中心與台灣微菌聯盟、亞太微菌聯盟共同舉辦「2025第8屆台灣微菌聯盟學術年會暨第3屆亞太微菌聯盟學術研討會」並公開徵求論文摘要 
+2025-03-26 13:58:35,893 - ycm_researcher.scraper.scraper - INFO - Content length: 765 characters
+2025-03-26 13:58:35,893 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 13:58:35,893 - ycm_researcher.scraper.scraper - INFO - URL: https://research.ntou.edu.tw/p/406-1021-108989,r1027.php?Lang=zh-tw
+2025-03-26 13:58:35,894 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,077 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,078 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,079 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,080 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,080 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,100 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.taog.org.tw/upload/event_apply/黴菌毒素研討會議程.pdf: too many values to unpack (expected 3)
+2025-03-26 13:58:36,145 - ycm_researcher.scraper.scraper - INFO - 
+Title: TAIWAN MMTN
+2025-03-26 13:58:36,145 - ycm_researcher.scraper.scraper - INFO - Content length: 407 characters
+2025-03-26 13:58:36,145 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 13:58:36,145 - ycm_researcher.scraper.scraper - INFO - URL: http://taiwanmmtn.org/
+2025-03-26 13:58:36,145 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,174 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 13:58:36,174 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,175 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,176 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,177 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,226 - ycm_researcher.scraper.scraper - ERROR - Error processing https://acade.must.edu.tw/files/SSCI_SCIE_Scopus_(2019-2025)_20250314121937.pdf: cannot unpack non-iterable NoneType object
+2025-03-26 13:58:36,250 - ycm_researcher.scraper.scraper - INFO - 
+Title: Google 學術搜尋
+2025-03-26 13:58:36,250 - ycm_researcher.scraper.scraper - INFO - Content length: 777 characters
+2025-03-26 13:58:36,250 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 13:58:36,250 - ycm_researcher.scraper.scraper - INFO - URL: https://scholar.google.com.tw/
+2025-03-26 13:58:36,251 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,398 - ycm_researcher.scraper.scraper - INFO - 
+Title: 國衛院電子報 – 台灣黴菌實驗中心
+2025-03-26 13:58:36,399 - ycm_researcher.scraper.scraper - INFO - Content length: 1034 characters
+2025-03-26 13:58:36,399 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 13:58:36,399 - ycm_researcher.scraper.scraper - INFO - URL: https://mycology.nhri.edu.tw/國衛院電子報/
+2025-03-26 13:58:36,399 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,453 - ycm_researcher.scraper.scraper - INFO - 
+Title: 台灣微菌聯盟｜Taiwan Microbiota Consortium
+2025-03-26 13:58:36,453 - ycm_researcher.scraper.scraper - INFO - Content length: 1236 characters
+2025-03-26 13:58:36,453 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 13:58:36,453 - ycm_researcher.scraper.scraper - INFO - URL: https://www.microbiota.org.tw/
+2025-03-26 13:58:36,453 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,453 - research - INFO - Scraped data size: 4
+2025-03-26 13:58:36,556 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,556 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,569 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,569 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,569 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,570 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,571 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 13:58:36,581 - ycm_researcher.scraper.scraper - INFO - 
+Title: 「2025第8屆台灣微菌聯盟學術年會暨第3屆亞太微菌聯盟學術研討會」並公開徵稿 
+2025-03-26 13:58:36,581 - ycm_researcher.scraper.scraper - INFO - Content length: 1318 characters
+2025-03-26 13:58:36,581 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 13:58:36,581 - ycm_researcher.scraper.scraper - INFO - URL: https://rad.ntsu.edu.tw/p/404-1009-57467.php?Lang=zh-tw
+2025-03-26 13:58:36,581 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,587 - ycm_researcher.scraper.scraper - INFO - 
+Title: 【轉知】國立陽明交通大學健康創新中心與台灣微菌聯盟、亞太微菌聯盟共同舉辦「2025第8屆台灣微菌聯盟學術年會暨第3屆亞太微菌聯盟學術研討會」，歡迎所屬人員踴躍投稿  - NCKU, 成功大學-教學發展中心
+2025-03-26 13:58:36,587 - ycm_researcher.scraper.scraper - INFO - Content length: 1366 characters
+2025-03-26 13:58:36,587 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 13:58:36,587 - ycm_researcher.scraper.scraper - INFO - URL: https://ctld.ncku.edu.tw/p/404-1047-276979.php?Lang=zh-tw
+2025-03-26 13:58:36,587 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,653 - ycm_researcher.scraper.scraper - INFO - 
+Title: 學術活動 全部 － 台灣微菌聯盟｜Taiwan Microbiota Consortium
+2025-03-26 13:58:36,653 - ycm_researcher.scraper.scraper - INFO - Content length: 764 characters
+2025-03-26 13:58:36,653 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 13:58:36,653 - ycm_researcher.scraper.scraper - INFO - URL: https://www.microbiota.org.tw/Activity
+2025-03-26 13:58:36,653 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,711 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for http://www.meeting.microbiota.org.tw/News/detail/100
+2025-03-26 13:58:36,753 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.facebook.com/aromamedicine/posts/993945919421265/
+2025-03-26 13:58:36,754 - research - INFO - Scraped data size: 1
+2025-03-26 13:58:36,924 - ycm_researcher.scraper.scraper - INFO - Content length: 4211 characters
+2025-03-26 13:58:36,925 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 13:58:36,925 - ycm_researcher.scraper.scraper - INFO - URL: https://www.ar.a.u-tokyo.ac.jp/pages/Japanese/J_publication/Paper_each_Year/J_pub_paper_2025.html
+2025-03-26 13:58:36,925 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,968 - ycm_researcher.scraper.scraper - INFO - 
+Title: CiNii Research
+2025-03-26 13:58:36,969 - ycm_researcher.scraper.scraper - INFO - Content length: 1993 characters
+2025-03-26 13:58:36,969 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 13:58:36,969 - ycm_researcher.scraper.scraper - INFO - URL: https://cir.nii.ac.jp/
+2025-03-26 13:58:36,969 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:36,993 - ycm_researcher.scraper.scraper - INFO - Content length: 3405 characters
+2025-03-26 13:58:36,993 - ycm_researcher.scraper.scraper - INFO - Number of images: 4
+2025-03-26 13:58:36,993 - ycm_researcher.scraper.scraper - INFO - URL: https://www.saaaj.jp/magazine/
+2025-03-26 13:58:36,993 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:37,034 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:37,093 - ycm_researcher.scraper.scraper - INFO - Content length: 789 characters
+2025-03-26 13:58:37,093 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 13:58:37,093 - ycm_researcher.scraper.scraper - INFO - URL: https://www.jsphcs.jp/publications/iryo-yakugaku/
+2025-03-26 13:58:37,093 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:37,149 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:37,220 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://ord.nuk.edu.tw/p/406-1015-83866,r279.php?Lang=zh-tw
+2025-03-26 13:58:37,399 - ycm_researcher.scraper.scraper - INFO - 
+Title: 淡江大學外來公文不掛文公告-詳細內容
+2025-03-26 13:58:37,399 - ycm_researcher.scraper.scraper - INFO - Content length: 741 characters
+2025-03-26 13:58:37,399 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 13:58:37,399 - ycm_researcher.scraper.scraper - INFO - URL: https://outnews.tku.edu.tw/details.asp?id=202412241549360487ab1688
+2025-03-26 13:58:37,399 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:37,403 - research - INFO - Scraped data size: 3
+2025-03-26 13:58:37,596 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:37,599 - research - INFO - Content found for sub-query: 2838 chars
+2025-03-26 13:58:37,720 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:37,720 - research - INFO - Content found for sub-query: 874 chars
+2025-03-26 13:58:37,999 - ycm_researcher.scraper.scraper - INFO - 
+Title:  
+    Perspectives in 2025
+  | Nature Microbiology
+2025-03-26 13:58:37,999 - ycm_researcher.scraper.scraper - INFO - Content length: 1422 characters
+2025-03-26 13:58:37,999 - ycm_researcher.scraper.scraper - INFO - Number of images: 4
+2025-03-26 13:58:37,999 - ycm_researcher.scraper.scraper - INFO - URL: https://www.nature.com/nmicrobiol/articles?type=perspective&year=2025
+2025-03-26 13:58:37,999 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 13:58:38,262 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:39,303 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:39,305 - research - INFO - Content found for sub-query: 4309 chars
+2025-03-26 13:58:40,186 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://scholars.tari.gov.tw/handle/123456789/16113
+2025-03-26 13:58:40,223 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.airitilibrary.com/Article/Detail/a0000124-N202301120004-00003
+2025-03-26 13:58:40,223 - research - INFO - Scraped data size: 2
+2025-03-26 13:58:40,536 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:40,649 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.amed.go.jp/news/seika/2025_seika_index.html
+2025-03-26 13:58:40,650 - research - INFO - Scraped data size: 4
+2025-03-26 13:58:40,931 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:40,932 - research - INFO - Content found for sub-query: 3092 chars
+2025-03-26 13:58:41,370 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:42,162 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 13:58:42,166 - research - INFO - Content found for sub-query: 2024 chars
+2025-03-26 13:58:42,166 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 13:58:42,166 - research - INFO - Combined context size: 13141
+2025-03-26 13:58:42,166 - research - INFO - Research completed. Context size: 13141
+2025-03-26 13:58:43,462 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:01:09,510 - research - INFO - research: {"step": "start", "details": {"query": "2024\u5e74\u9ef4\u83cc\u7814\u7a76", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:01:09,511 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:01:10,967 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:01:11,170 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:01:11,172 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83d\udd2c Science Research Agent", "role": "You are a highly knowledgeable AI science researcher assistant. Your primary mission is to provide detailed, insightful, unbiased, and systematically structured scientific reports based on the latest research, studies, and advancements in the given scientific field."}}
+2025-03-26 14:01:11,172 - research - INFO - Starting research for query: 2024年黴菌研究
+2025-03-26 14:01:11,173 - research - INFO - Using web search
+2025-03-26 14:01:11,173 - research - INFO - Starting web search for query: 2024年黴菌研究
+2025-03-26 14:01:11,173 - research - INFO - Planning research for query: 2024年黴菌研究
+2025-03-26 14:01:13,320 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:01:58,993 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:01:58,996 - research - INFO - Research outline planned: ['2024年黴菌研究 論文綜述 最新進展', '2024年台灣黴菌分類與水分影響生長實驗結果', '2024台灣醫學黴菌培訓研討會 入侵性真菌感染 診斷及治療整合', '2024全球黴菌毒素檢測市場 報告 與趨勢分析']
+2025-03-26 14:01:58,997 - research - INFO - Generated sub-queries: ['2024年黴菌研究 論文綜述 最新進展', '2024年台灣黴菌分類與水分影響生長實驗結果', '2024台灣醫學黴菌培訓研討會 入侵性真菌感染 診斷及治療整合', '2024全球黴菌毒素檢測市場 報告 與趨勢分析']
+2025-03-26 14:02:01,290 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:02:01,290 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,290 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,292 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,293 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,316 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,316 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,317 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,318 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,319 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,330 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,331 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:02:01,331 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,332 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,332 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,382 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://report.nat.gov.tw/ReportFront/PageSystem/reportFileDownload/C11300881/002
+2025-03-26 14:02:01,404 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,491 - ycm_researcher.scraper.scraper - INFO - 
+Title: 最新研究論文與重大發現與突破：研究者的知識寶庫 – 生命科學圖書館推廣服務誌
+2025-03-26 14:02:01,491 - ycm_researcher.scraper.scraper - INFO - Content length: 1590 characters
+2025-03-26 14:02:01,491 - ycm_researcher.scraper.scraper - INFO - Number of images: 4
+2025-03-26 14:02:01,492 - ycm_researcher.scraper.scraper - INFO - URL: https://lsl.sinica.edu.tw/Blog/2024/08/26-3/
+2025-03-26 14:02:01,492 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,492 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,509 - ycm_researcher.scraper.scraper - INFO - 
+Title: B0089 「植物抗黴大作戰—各種植物對黴菌的影響 」作品資訊 - 參賽作品 | 科學探究競賽—這樣教我就懂
+2025-03-26 14:02:01,510 - ycm_researcher.scraper.scraper - INFO - Content length: 858 characters
+2025-03-26 14:02:01,511 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:02:01,511 - ycm_researcher.scraper.scraper - INFO - URL: https://sciexplore2024.colife.org.tw/work/2024/B0089
+2025-03-26 14:02:01,511 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,511 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,515 - ycm_researcher.scraper.scraper - INFO - 
+Title: A0006 「有趣的黴菌 」作品資訊 - 參賽作品 | 科學探究競賽—這樣教我就懂
+2025-03-26 14:02:01,516 - ycm_researcher.scraper.scraper - INFO - Content length: 851 characters
+2025-03-26 14:02:01,516 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:02:01,516 - ycm_researcher.scraper.scraper - INFO - URL: https://sciexplore2024.colife.org.tw/work/2024/A0006/
+2025-03-26 14:02:01,516 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,516 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,618 - ycm_researcher.scraper.scraper - INFO - 
+Title: 台灣黴菌實驗中心 – Taiwan Mycology Reference Center
+2025-03-26 14:02:01,618 - ycm_researcher.scraper.scraper - INFO - Content length: 1722 characters
+2025-03-26 14:02:01,618 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:02:01,618 - ycm_researcher.scraper.scraper - INFO - URL: https://mycology.nhri.edu.tw/
+2025-03-26 14:02:01,619 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,619 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,727 - ycm_researcher.scraper.scraper - INFO - Content length: 1566 characters
+2025-03-26 14:02:01,727 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:02:01,727 - ycm_researcher.scraper.scraper - INFO - URL: https://www.sinica.edu.tw/News_Content/36/2678
+2025-03-26 14:02:01,727 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,727 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,745 - ycm_researcher.scraper.scraper - INFO - 
+Title: Google 學術搜尋
+2025-03-26 14:02:01,745 - ycm_researcher.scraper.scraper - INFO - Content length: 777 characters
+2025-03-26 14:02:01,746 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:02:01,746 - ycm_researcher.scraper.scraper - INFO - URL: https://scholar.google.com.tw/
+2025-03-26 14:02:01,746 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,746 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,783 - ycm_researcher.scraper.scraper - INFO - 
+Title: 全球黴菌毒素檢測市場：按類型、技術、樣本、地區分類 - 預測（至 2029 年） - 日商環球訊息有限公司 (GII)
+2025-03-26 14:02:01,784 - ycm_researcher.scraper.scraper - INFO - Content length: 55338 characters
+2025-03-26 14:02:01,784 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:02:01,784 - ycm_researcher.scraper.scraper - INFO - URL: https://www.gii.tw/report/mama1493846-mycotoxin-testing-market-report-by-type-aflatoxins.html
+2025-03-26 14:02:01,784 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,784 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:02:01,807 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌毒素檢測市場：2024-2033年全球產業分析、規模、佔有率、成長、趨勢、預測 - 日商環球訊息有限公司 (GII)
+2025-03-26 14:02:01,808 - ycm_researcher.scraper.scraper - INFO - Content length: 19420 characters
+2025-03-26 14:02:01,808 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:02:01,809 - ycm_researcher.scraper.scraper - INFO - URL: https://www.gii.tw/report/pmrs1532183-mycotoxin-testing-market-global-industry-analysis.html
+2025-03-26 14:02:01,809 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,830 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌毒素測試市場 - 全球產業規模、佔有率、趨勢、機會和預測，按類型、技術、樣本、最終用戶、地區和競爭細分，2020-2030F - 日商環球訊息有限公司 (GII)
+2025-03-26 14:02:01,830 - ycm_researcher.scraper.scraper - INFO - Content length: 34459 characters
+2025-03-26 14:02:01,831 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:02:01,831 - ycm_researcher.scraper.scraper - INFO - URL: https://www.gii.tw/report/tsci1631817-mycotoxin-testing-market-global-industry-size.html
+2025-03-26 14:02:01,831 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,947 - ycm_researcher.scraper.scraper - INFO - Content length: 1085 characters
+2025-03-26 14:02:01,948 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:02:01,949 - ycm_researcher.scraper.scraper - INFO - URL: https://www.jstage.jst.go.jp/browse/jjom/-char/ja/
+2025-03-26 14:02:01,949 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,962 - ycm_researcher.scraper.scraper - INFO - Content length: 19419 characters
+2025-03-26 14:02:01,962 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:02:01,962 - ycm_researcher.scraper.scraper - INFO - URL: https://cn.gii.tw/report/pmrs1532183-mycotoxin-testing-market-global-industry-analysis.html
+2025-03-26 14:02:01,962 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,963 - ycm_researcher.scraper.scraper - INFO - 
+Title: 2024台灣醫學黴菌培訓網研討會(MMTN) | 秘書處公告 | 台灣感染症醫學會
+2025-03-26 14:02:01,963 - ycm_researcher.scraper.scraper - INFO - Content length: 595 characters
+2025-03-26 14:02:01,963 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:02:01,963 - ycm_researcher.scraper.scraper - INFO - URL: http://idsroc.org.tw/news/news_info.asp?news_type=4&id=913
+2025-03-26 14:02:01,963 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:01,963 - research - INFO - Scraped data size: 4
+2025-03-26 14:02:02,986 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.liferainbow.com.tw/uploads/editor/files/112年(2023)黴菌毒素檢測年度結果+20240223.pdf: cannot unpack non-iterable NoneType object
+2025-03-26 14:02:05,736 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://ieel.tw/黴漿菌的基因研究進展：未來治療的可能方向/
+2025-03-26 14:02:05,802 - research - INFO - Scraped data size: 3
+2025-03-26 14:02:06,435 - ycm_researcher.scraper.scraper - INFO - 
+Title: 陳宜君教授擔任本院感染症與疫苗研究所所長 – 感染症與疫苗研究所
+2025-03-26 14:02:06,435 - ycm_researcher.scraper.scraper - INFO - Content length: 1699 characters
+2025-03-26 14:02:06,476 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:02:06,496 - ycm_researcher.scraper.scraper - INFO - URL: https://iv.nhri.edu.tw/news20240820/
+2025-03-26 14:02:06,614 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:07,148 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:08,406 - ycm_researcher.scraper.scraper - INFO - 
+Title: 
+2025-03-26 14:02:08,408 - ycm_researcher.scraper.scraper - INFO - Content length: 104 characters
+2025-03-26 14:02:08,408 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:02:08,408 - ycm_researcher.scraper.scraper - INFO - URL: https://kmweb.moa.gov.tw/redirect_files.php?theme=knowledgebase&id=686056
+2025-03-26 14:02:08,409 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:08,411 - research - INFO - Scraped data size: 4
+2025-03-26 14:02:08,481 - ycm_researcher.scraper.scraper - INFO - Content length: 1149 characters
+2025-03-26 14:02:08,482 - ycm_researcher.scraper.scraper - INFO - Number of images: 4
+2025-03-26 14:02:08,482 - ycm_researcher.scraper.scraper - INFO - URL: https://www.pediatr.org.tw/meeting/inland_info.asp?id=19418
+2025-03-26 14:02:08,482 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:08,482 - ycm_researcher.scraper.scraper - ERROR - Error processing https://taiwanmmtn.org/backend/seminar/SEP_FILE/20240820001.pdf: too many values to unpack (expected 3)
+2025-03-26 14:02:08,501 - ycm_researcher.scraper.scraper - INFO - 
+Title: 2024年台灣醫學黴菌培訓網研討會 | 社團法人臺灣皮膚科醫學會-醫師版
+2025-03-26 14:02:08,503 - ycm_researcher.scraper.scraper - INFO - Content length: 661 characters
+2025-03-26 14:02:08,503 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:02:08,503 - ycm_researcher.scraper.scraper - INFO - URL: https://www.derma.org.tw/events/content.php?id=1868
+2025-03-26 14:02:08,503 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:08,516 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:08,524 - research - INFO - Content found for sub-query: 2190 chars
+2025-03-26 14:02:08,569 - ycm_researcher.scraper.scraper - INFO - 
+Title: 台灣也能自己做出白黴起司！畜試所黴菌熟成起司新技術成功技轉、拓寬國產乳品加工應用前景！ @ 食力foodNEXT‧食事求實的知識頻道
+2025-03-26 14:02:08,569 - ycm_researcher.scraper.scraper - INFO - Content length: 2464 characters
+2025-03-26 14:02:08,569 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:02:08,570 - ycm_researcher.scraper.scraper - INFO - URL: https://www.foodnext.net/science/technology/paper/6471059981
+2025-03-26 14:02:08,570 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:08,644 - ycm_researcher.scraper.scraper - INFO - 
+Title: TAIWAN MMTN
+2025-03-26 14:02:08,648 - ycm_researcher.scraper.scraper - INFO - Content length: 14223 characters
+2025-03-26 14:02:08,648 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:02:08,648 - ycm_researcher.scraper.scraper - INFO - URL: https://taiwanmmtn.org/seminar2.php?SE_ID=20240530001
+2025-03-26 14:02:08,649 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:08,649 - research - INFO - Scraped data size: 4
+2025-03-26 14:02:08,670 - ycm_researcher.scraper.scraper - INFO - 
+Title: TAIWAN MMTN
+2025-03-26 14:02:08,674 - ycm_researcher.scraper.scraper - INFO - Content length: 16444 characters
+2025-03-26 14:02:08,674 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:02:08,676 - ycm_researcher.scraper.scraper - INFO - URL: https://taiwanmmtn.org/seminar-history2.php?SE_ID=20240530001
+2025-03-26 14:02:08,676 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:02:08,677 - research - INFO - Scraped data size: 4
+2025-03-26 14:02:09,082 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:09,138 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:09,476 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:09,945 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:09,951 - research - INFO - Content found for sub-query: 3885 chars
+2025-03-26 14:02:10,406 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:10,413 - research - INFO - Content found for sub-query: 10533 chars
+2025-03-26 14:02:11,106 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:11,108 - research - INFO - Content found for sub-query: 9270 chars
+2025-03-26 14:02:14,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:15,214 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:02:15,219 - research - INFO - Content found for sub-query: 9557 chars
+2025-03-26 14:02:15,220 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:02:15,220 - research - INFO - Combined context size: 35439
+2025-03-26 14:02:15,221 - research - INFO - Research completed. Context size: 35439
+2025-03-26 14:02:15,222 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 35439}}
+2025-03-26 14:02:15,222 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:02:16,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:02:33,106 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 9069}}
+2025-03-26 14:09:04,053 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:09:04,055 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:09:05,309 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:09:05,551 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:09:05,553 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddec Biology Agent", "role": "You are a knowledgeable AI biology assistant. Your primary mission is to provide detailed, accurate, unbiased, and well-organized biological insights on given topics, including organisms, ecosystems, and biological processes."}}
+2025-03-26 14:09:05,553 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:09:05,555 - research - INFO - Using web search
+2025-03-26 14:09:05,556 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:09:05,556 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:09:07,789 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:09:34,276 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:09:34,280 - research - INFO - Research outline planned: ['黑黴菌 定義與健康風險：分生孢子菌症、大廈綜合症及相關科學研究', '室內黑黴菌 生長原因與預防措施 最新研究與專家建議', '如何安全清除居家黑黴菌：含氯漂白劑與專業除黴劑效果比較', '黑黴菌 與其他黴菌（如青黴菌、紅黴菌）生物特性及健康影響的客觀比較']
+2025-03-26 14:09:34,281 - research - INFO - Generated sub-queries: ['黑黴菌 定義與健康風險：分生孢子菌症、大廈綜合症及相關科學研究', '室內黑黴菌 生長原因與預防措施 最新研究與專家建議', '如何安全清除居家黑黴菌：含氯漂白劑與專業除黴劑效果比較', '黑黴菌 與其他黴菌（如青黴菌、紅黴菌）生物特性及健康影響的客觀比較']
+2025-03-26 14:09:36,580 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,580 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,582 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,583 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,585 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,642 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,643 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,644 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,646 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,647 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:36,773 - ycm_researcher.scraper.scraper - INFO - 
+Title: 食物發霉切掉照吃？家中暗藏５種黴菌 跑進身體毒害你
+2025-03-26 14:09:36,774 - ycm_researcher.scraper.scraper - INFO - Content length: 2752 characters
+2025-03-26 14:09:36,774 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:09:36,775 - ycm_researcher.scraper.scraper - INFO - URL: https://health.tvbs.com.tw/regimen/308710
+2025-03-26 14:09:36,775 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:36,868 - ycm_researcher.scraper.scraper - INFO - 
+Title: 殺光病菌！超完整「4大居家消毒」懶人包一次看懂 | ETtoday健康雲 | ETtoday新聞雲
+2025-03-26 14:09:36,869 - ycm_researcher.scraper.scraper - INFO - Content length: 4274 characters
+2025-03-26 14:09:36,869 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:09:36,870 - ycm_researcher.scraper.scraper - INFO - URL: https://health.ettoday.net/news/1677837
+2025-03-26 14:09:36,873 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:36,874 - ycm_researcher.scraper.scraper - INFO - 
+Title: 微生物與健康產業：黴菌與健康| - 科技大觀園
+2025-03-26 14:09:36,874 - ycm_researcher.scraper.scraper - INFO - Content length: 4061 characters
+2025-03-26 14:09:36,874 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:09:36,875 - ycm_researcher.scraper.scraper - INFO - URL: https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=619f7e40-efdd-48d4-a6fe-a1714b15d660
+2025-03-26 14:09:36,875 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:36,903 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://shop.5soap.com/Article/Detail/79648
+2025-03-26 14:09:36,926 - ycm_researcher.scraper.scraper - INFO - Content length: 5622 characters
+2025-03-26 14:09:36,926 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:09:36,926 - ycm_researcher.scraper.scraper - INFO - URL: https://www.mdnkids.com/content.asp?sn=8909
+2025-03-26 14:09:36,926 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:37,117 - ycm_researcher.scraper.scraper - INFO - 
+Title: 居家除黴方法大會集
+2025-03-26 14:09:37,118 - ycm_researcher.scraper.scraper - INFO - Content length: 765 characters
+2025-03-26 14:09:37,118 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:09:37,118 - ycm_researcher.scraper.scraper - INFO - URL: https://www.cleanuplime.com/knowledges/detail/6
+2025-03-26 14:09:37,119 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:37,277 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:09:37,277 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:09:37,277 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:09:37,277 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:09:37,277 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:37,332 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,332 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,332 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,332 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,408 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,410 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,410 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,411 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:37,480 - ycm_researcher.scraper.scraper - INFO - 
+Title: 室內裝修建材黴菌生長因素及防黴性能之研究- 元照出版, 月旦知識庫
+2025-03-26 14:09:37,481 - ycm_researcher.scraper.scraper - INFO - Content length: 2638 characters
+2025-03-26 14:09:37,481 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:09:37,482 - ycm_researcher.scraper.scraper - INFO - URL: http://lawdata.com.tw/tw/doi/?doi=10.3966/101632122017030099003
+2025-03-26 14:09:37,482 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:37,786 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑黴菌，一種無聲的入侵者 - I'm Biotechnology
+2025-03-26 14:09:37,786 - ycm_researcher.scraper.scraper - INFO - Content length: 1808 characters
+2025-03-26 14:09:37,786 - ycm_researcher.scraper.scraper - INFO - Number of images: 5
+2025-03-26 14:09:37,786 - ycm_researcher.scraper.scraper - INFO - URL: https://imbio.group/健康/黑黴菌，一種無聲的入侵者/?lang=zh-hant
+2025-03-26 14:09:37,786 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:37,935 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:09:37,935 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:09:37,936 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:09:37,936 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:09:37,937 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:37,939 - research - INFO - Scraped data size: 5
+2025-03-26 14:09:38,240 - ycm_researcher.scraper.scraper - INFO - 
+Title: 家裡長黴菌怎麼辦？高效除霉攻略：完整教學及避免二次污染秘訣 - 素人斜槓設計空間
+2025-03-26 14:09:38,240 - ycm_researcher.scraper.scraper - INFO - Content length: 7624 characters
+2025-03-26 14:09:38,242 - ycm_researcher.scraper.scraper - INFO - Number of images: 7
+2025-03-26 14:09:38,242 - ycm_researcher.scraper.scraper - INFO - URL: https://tile.payeasy.club.tw/家裡長黴菌怎麼辦？/
+2025-03-26 14:09:38,243 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:38,262 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:09:38,263 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:09:38,263 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:09:38,263 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:09:38,264 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:38,298 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:09:38,299 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:09:38,299 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:09:38,303 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:09:38,303 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:38,308 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:09:38,308 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:09:38,309 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:09:38,309 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:38,314 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:09:38,314 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:09:38,315 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh/黴菌
+2025-03-26 14:09:38,315 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:38,317 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:09:38,319 - research - INFO - Scraped data size: 4
+2025-03-26 14:09:38,671 - ycm_researcher.scraper.scraper - INFO - 
+Title: 室內晾衣恐增黴菌生長，影響健康風險 | 明日科學
+2025-03-26 14:09:38,671 - ycm_researcher.scraper.scraper - INFO - Content length: 2009 characters
+2025-03-26 14:09:38,672 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:09:38,672 - ycm_researcher.scraper.scraper - INFO - URL: https://tomorrowsci.com/globalnews/20250214_01/
+2025-03-26 14:09:38,672 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:38,832 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:09:38,832 - ycm_researcher.scraper.scraper - INFO - Content length: 3011 characters
+2025-03-26 14:09:38,833 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:09:38,833 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:09:38,833 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:09:38,834 - research - INFO - Scraped data size: 1
+2025-03-26 14:09:38,847 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:39,098 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:39,302 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:39,649 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:39,651 - research - INFO - Content found for sub-query: 3302 chars
+2025-03-26 14:09:39,774 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:39,777 - research - INFO - Content found for sub-query: 8428 chars
+2025-03-26 14:09:40,311 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:40,315 - research - INFO - Content found for sub-query: 9777 chars
+2025-03-26 14:09:40,991 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:09:40,992 - research - INFO - Scraped data size: 3
+2025-03-26 14:09:41,703 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/黑黴菌有毒嗎？/
+2025-03-26 14:09:41,703 - research - INFO - Scraped data size: 3
+2025-03-26 14:09:41,726 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:42,250 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:42,278 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:42,281 - research - INFO - Content found for sub-query: 10045 chars
+2025-03-26 14:09:43,176 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:09:43,178 - research - INFO - Content found for sub-query: 6849 chars
+2025-03-26 14:09:43,180 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:09:43,180 - research - INFO - Combined context size: 38405
+2025-03-26 14:09:43,180 - research - INFO - Research completed. Context size: 38405
+2025-03-26 14:09:43,181 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 38405}}
+2025-03-26 14:09:43,182 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:09:45,191 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:09:57,920 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 7617}}
+2025-03-26 14:10:55,985 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:10:55,985 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:10:57,378 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:10:57,570 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:10:57,571 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddea Science Agent", "role": "You are a knowledgeable AI science assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-structured scientific explanations, research summaries, and insights on various scientific topics, including biology, chemistry, and environmental science."}}
+2025-03-26 14:10:57,571 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:10:57,573 - research - INFO - Using web search
+2025-03-26 14:10:57,573 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:10:57,573 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:10:59,692 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:11:23,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:11:23,863 - research - INFO - Research outline planned: ['黑黴菌 定義、健康風險及大廈綜合症最新研究', '居家環境中黑黴菌成因、生物學特性與防治措施', '黑黴菌與黑曲霉的區別：健康影響與工業應用對比', '如何安全有效清除及預防室內黑黴菌的專家建議']
+2025-03-26 14:11:23,863 - research - INFO - Generated sub-queries: ['黑黴菌 定義、健康風險及大廈綜合症最新研究', '居家環境中黑黴菌成因、生物學特性與防治措施', '黑黴菌與黑曲霉的區別：健康影響與工業應用對比', '如何安全有效清除及預防室內黑黴菌的專家建議']
+2025-03-26 14:11:26,304 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,304 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,304 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,309 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,309 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,499 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,499 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,500 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,501 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,502 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,505 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,506 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,507 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,507 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,542 - ycm_researcher.scraper.scraper - INFO - 
+Title: 微生物與健康產業：黴菌與健康| - 科技大觀園
+2025-03-26 14:11:26,542 - ycm_researcher.scraper.scraper - INFO - Content length: 4057 characters
+2025-03-26 14:11:26,542 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:11:26,542 - ycm_researcher.scraper.scraper - INFO - URL: https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=619f7e40-efdd-48d4-a6fe-a1714b15d660
+2025-03-26 14:11:26,543 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:26,732 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,732 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,864 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:11:26,864 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:11:26,864 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:11:26,864 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:11:26,864 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:26,867 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,881 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:11:26,881 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:11:26,881 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:11:26,881 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:11:26,882 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:26,882 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:26,920 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:11:26,920 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:11:26,920 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:11:26,920 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:11:26,920 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:26,951 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:11:26,951 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:11:26,952 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:11:26,952 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:26,955 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:11:26,955 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:11:26,955 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:11:26,955 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:11:26,956 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:26,958 - research - INFO - Scraped data size: 4
+2025-03-26 14:11:27,055 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://hk.aboluowang.com/2025/0207/2171836.html
+2025-03-26 14:11:27,098 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:27,099 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:27,099 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:11:27,100 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:11:27,113 - ycm_researcher.scraper.scraper - INFO - 
+Title: 
+	維護室內空氣品質篇－清除居家黴菌有撇步-環境部新聞專區｜環境部
+
+2025-03-26 14:11:27,113 - ycm_researcher.scraper.scraper - INFO - Content length: 3125 characters
+2025-03-26 14:11:27,115 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:11:27,115 - ycm_researcher.scraper.scraper - INFO - URL: https://enews.moenv.gov.tw/Page/3B3C62C78849F32F/aeaa5648-81b1-46c1-b0ba-0fe5f294e489
+2025-03-26 14:11:27,115 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:27,146 - ycm_researcher.scraper.scraper - INFO - Content length: 1299 characters
+2025-03-26 14:11:27,146 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:11:27,146 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黑曲霉
+2025-03-26 14:11:27,146 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:27,154 - ycm_researcher.scraper.scraper - INFO - 
+Title: 除霉菌攻略｜酒精/ 漂白水 / 過碳酸納/清潔劑   梅雨季家居清潔攻略｜專家教精你 | 星島日報
+2025-03-26 14:11:27,154 - ycm_researcher.scraper.scraper - INFO - Content length: 2717 characters
+2025-03-26 14:11:27,154 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:11:27,154 - ycm_researcher.scraper.scraper - INFO - URL: https://std.stheadline.com/supplement/article/2664856/副刊-今日館-除霉菌攻略-酒精-漂白水-過碳酸納-清潔劑-梅雨季家居清潔攻略-專家教精你
+2025-03-26 14:11:27,154 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:27,227 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑黴菌，一種無聲的入侵者 - I'm Biotechnology
+2025-03-26 14:11:27,227 - ycm_researcher.scraper.scraper - INFO - Content length: 1808 characters
+2025-03-26 14:11:27,227 - ycm_researcher.scraper.scraper - INFO - Number of images: 5
+2025-03-26 14:11:27,227 - ycm_researcher.scraper.scraper - INFO - URL: https://imbio.group/健康/黑黴菌，一種無聲的入侵者/?lang=zh-hant
+2025-03-26 14:11:27,227 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:27,559 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:27,580 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.mxeduc.org.tw/scienceaward/history/projectDoc/6th/doc/SA6-090_final.pdf: too many values to unpack (expected 3)
+2025-03-26 14:11:27,603 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌最怕什麼？了解黴菌的特性與防治方法
+2025-03-26 14:11:27,603 - ycm_researcher.scraper.scraper - INFO - Content length: 2691 characters
+2025-03-26 14:11:27,604 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:11:27,604 - ycm_researcher.scraper.scraper - INFO - URL: https://ai.shareba.com/read-blog/1623529_黴菌最怕什麼-了解黴菌的特性與防治方法.html
+2025-03-26 14:11:27,604 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:28,337 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:28,340 - research - INFO - Content found for sub-query: 9249 chars
+2025-03-26 14:11:28,363 - ycm_researcher.scraper.scraper - INFO - Content length: 3567 characters
+2025-03-26 14:11:28,364 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:11:28,364 - ycm_researcher.scraper.scraper - INFO - URL: https://www.biobw.org/trends/bio-w-10936.html
+2025-03-26 14:11:28,364 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:28,482 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:11:28,483 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:11:28,483 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:11:28,483 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:11:28,484 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:28,614 - ycm_researcher.scraper.scraper - INFO - 
+Title: 什麼是建築綜合症以及為什麼要予以關注？ | Camfil
+2025-03-26 14:11:28,614 - ycm_researcher.scraper.scraper - INFO - Content length: 2616 characters
+2025-03-26 14:11:28,617 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:11:28,617 - ycm_researcher.scraper.scraper - INFO - URL: https://www.camfil.com/zh-tw/insights/commercial-and-public-buildings/what-is-sick-building-syndrome
+2025-03-26 14:11:28,617 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:29,214 - ycm_researcher.scraper.scraper - INFO - Content length: 2055 characters
+2025-03-26 14:11:29,214 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:11:29,214 - ycm_researcher.scraper.scraper - INFO - URL: https://www.archdaily.cn/cn/939343/ru-he-jian-shao-hei-mei-jun-dui-jian-zhu-yu-ren-lei-de-wei-hai
+2025-03-26 14:11:29,214 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:11:29,214 - research - INFO - Scraped data size: 3
+2025-03-26 14:11:30,125 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:30,368 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://ieel.tw/常見的黴漿菌種類及其對健康的影響/
+2025-03-26 14:11:30,369 - research - INFO - Scraped data size: 4
+2025-03-26 14:11:30,526 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:11:30,535 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/黑黴菌有毒嗎？/
+2025-03-26 14:11:30,799 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/如何消除黴菌？/
+2025-03-26 14:11:30,800 - research - INFO - Scraped data size: 1
+2025-03-26 14:11:30,861 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:30,863 - research - INFO - Content found for sub-query: 10466 chars
+2025-03-26 14:11:31,055 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/黑黴菌是哪一界？/
+2025-03-26 14:11:31,055 - research - INFO - Scraped data size: 3
+2025-03-26 14:11:31,213 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:31,280 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:31,627 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:31,632 - research - INFO - Content found for sub-query: 3299 chars
+2025-03-26 14:11:31,753 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:32,311 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:32,313 - research - INFO - Content found for sub-query: 9556 chars
+2025-03-26 14:11:32,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:11:32,407 - research - INFO - Content found for sub-query: 5011 chars
+2025-03-26 14:11:32,408 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:11:32,408 - research - INFO - Combined context size: 37585
+2025-03-26 14:11:32,408 - research - INFO - Research completed. Context size: 37585
+2025-03-26 14:11:32,409 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 37585}}
+2025-03-26 14:11:32,409 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:11:34,206 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:11:50,699 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 7448}}
+2025-03-26 14:12:16,456 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:12:16,456 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:12:17,739 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:12:17,742 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:12:17,743 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddea Science Agent", "role": "You are a knowledgeable AI science assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-structured scientific explanations, research summaries, and insights on given topics, including biological, chemical, and environmental sciences."}}
+2025-03-26 14:12:17,744 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:12:17,744 - research - INFO - Using web search
+2025-03-26 14:12:17,745 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:12:17,745 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:12:20,511 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:12:56,910 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:12:56,914 - research - INFO - Research outline planned: ['黑黴菌 健康風險與過敏反應：分生孢子菌症及大廈綜合症的科學研究', '室內黑黴菌清除與預防方法：含氯漂白劑使用及持續防治措施', '黑黴菌與黑曲霉的分類差異及其工業應用：檸檬酸發酵與食品安全評估', '黑黴菌生長條件及環境影響：室內濕度、通風與黴菌滋生改善對策']
+2025-03-26 14:12:56,914 - research - INFO - Generated sub-queries: ['黑黴菌 健康風險與過敏反應：分生孢子菌症及大廈綜合症的科學研究', '室內黑黴菌清除與預防方法：含氯漂白劑使用及持續防治措施', '黑黴菌與黑曲霉的分類差異及其工業應用：檸檬酸發酵與食品安全評估', '黑黴菌生長條件及環境影響：室內濕度、通風與黴菌滋生改善對策']
+2025-03-26 14:12:59,157 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,158 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,160 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,161 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,162 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,164 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,165 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,166 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,166 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,168 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,220 - ycm_researcher.scraper.scraper - INFO - 
+Title: 習慣成自然，4個簡單的浴室清潔妙招，秒殺難纏黑黴菌！｜鈴木太太
+2025-03-26 14:12:59,221 - ycm_researcher.scraper.scraper - INFO - Content length: 2466 characters
+2025-03-26 14:12:59,221 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:12:59,221 - ycm_researcher.scraper.scraper - INFO - URL: https://loveiizakka.com/article/fb8f34cc-02f9-41a1-8d80-5795785b5daa
+2025-03-26 14:12:59,222 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,263 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,263 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,263 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,263 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,266 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,313 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,354 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌好發區域及應對方式｜樂清知識庫 | DUSKIN
+2025-03-26 14:12:59,354 - ycm_researcher.scraper.scraper - INFO - Content length: 496 characters
+2025-03-26 14:12:59,355 - ycm_researcher.scraper.scraper - INFO - Number of images: 4
+2025-03-26 14:12:59,355 - ycm_researcher.scraper.scraper - INFO - URL: https://www.duskin.com.tw/knowledge/detail/2
+2025-03-26 14:12:59,355 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,355 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,384 - ycm_researcher.scraper.scraper - INFO - 
+Title: 菌菌發酵顯威！黑麴菌、溶脂念珠菌掀起飲料工業的二次革命 @ 食力foodNEXT‧食事求實的知識頻道
+2025-03-26 14:12:59,384 - ycm_researcher.scraper.scraper - INFO - Content length: 3849 characters
+2025-03-26 14:12:59,385 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:12:59,385 - ycm_researcher.scraper.scraper - INFO - URL: https://www.foodnext.net/science/machining/paper/5098275823
+2025-03-26 14:12:59,385 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,385 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,481 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:12:59,481 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:12:59,482 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:12:59,483 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:12:59,483 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,483 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,514 - ycm_researcher.scraper.scraper - INFO - Content length: 1299 characters
+2025-03-26 14:12:59,515 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:12:59,515 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黑曲霉
+2025-03-26 14:12:59,515 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,536 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:12:59,537 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:12:59,537 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:12:59,537 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:12:59,538 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,560 - ycm_researcher.scraper.scraper - INFO - Content length: 22400 characters
+2025-03-26 14:12:59,560 - ycm_researcher.scraper.scraper - INFO - Number of images: 2
+2025-03-26 14:12:59,560 - ycm_researcher.scraper.scraper - INFO - URL: http://sf1970.cnif.cn/fileup/0253-990X/HTML/2020-23-279.shtml
+2025-03-26 14:12:59,560 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,662 - ycm_researcher.scraper.scraper - INFO - 
+Title: 漂白水可以殺死黴菌嗎？7個正確使用方法大公開
+2025-03-26 14:12:59,662 - ycm_researcher.scraper.scraper - INFO - Content length: 3404 characters
+2025-03-26 14:12:59,663 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:12:59,663 - ycm_researcher.scraper.scraper - INFO - URL: https://clean520.tw/bleach-kills-mold/
+2025-03-26 14:12:59,663 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,682 - ycm_researcher.scraper.scraper - INFO - 
+Title: 食物發霉切掉照吃？家中暗藏５種黴菌 跑進身體毒害你
+2025-03-26 14:12:59,683 - ycm_researcher.scraper.scraper - INFO - Content length: 2752 characters
+2025-03-26 14:12:59,683 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:12:59,683 - ycm_researcher.scraper.scraper - INFO - URL: https://health.tvbs.com.tw/regimen/308710
+2025-03-26 14:12:59,683 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,705 - ycm_researcher.scraper.scraper - INFO - 
+Title: 微生物與健康產業：黴菌與健康| - 科技大觀園
+2025-03-26 14:12:59,705 - ycm_researcher.scraper.scraper - INFO - Content length: 4051 characters
+2025-03-26 14:12:59,706 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:12:59,706 - ycm_researcher.scraper.scraper - INFO - URL: https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=619f7e40-efdd-48d4-a6fe-a1714b15d660
+2025-03-26 14:12:59,706 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:12:59,733 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://read01.com/zh-tw/xDxNmaa.html
+2025-03-26 14:12:59,970 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,970 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:12:59,970 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:13:00,187 - ycm_researcher.scraper.scraper - INFO - 
+Title: 認識黴菌與人體疾病 –  徐世達醫師－35年過敏氣喘免疫經驗分享
+2025-03-26 14:13:00,187 - ycm_researcher.scraper.scraper - INFO - Content length: 4437 characters
+2025-03-26 14:13:00,187 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:13:00,189 - ycm_researcher.scraper.scraper - INFO - URL: https://dar-allergy.com/2020/06/10/認識黴菌與人體疾病/
+2025-03-26 14:13:00,189 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:00,226 - ycm_researcher.scraper.scraper - INFO - Content length: 1696 characters
+2025-03-26 14:13:00,226 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:13:00,226 - ycm_researcher.scraper.scraper - INFO - URL: https://d.wanfangdata.com.cn/periodical/spyfx202023040
+2025-03-26 14:13:00,226 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:00,228 - research - INFO - Scraped data size: 5
+2025-03-26 14:13:00,324 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:13:00,324 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:13:00,324 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:13:00,325 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:13:00,326 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:00,336 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:13:00,337 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:13:00,337 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:13:00,337 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:13:00,337 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:00,790 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何從你的家中清除黴菌 - Step to Health
+2025-03-26 14:13:00,792 - ycm_researcher.scraper.scraper - INFO - Content length: 2201 characters
+2025-03-26 14:13:00,792 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:13:00,792 - ycm_researcher.scraper.scraper - INFO - URL: https://steptohealth.tw/生活習慣/如何從你的家中清除黴菌/
+2025-03-26 14:13:00,793 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:00,823 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 住在潮濕環境中默默長大的-黴菌 住在潮濕環境中默默長大的-黴菌
+2025-03-26 14:13:00,823 - ycm_researcher.scraper.scraper - INFO - Content length: 3884 characters
+2025-03-26 14:13:00,824 - ycm_researcher.scraper.scraper - INFO - Number of images: 2
+2025-03-26 14:13:00,824 - ycm_researcher.scraper.scraper - INFO - URL: https://cleanofking.com/住在潮濕環境中默默長大的-黴菌/
+2025-03-26 14:13:00,824 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:00,980 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:13:00,980 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:13:00,981 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:13:00,981 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:13:00,981 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:00,982 - research - INFO - Scraped data size: 4
+2025-03-26 14:13:01,353 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:13:01,353 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:13:01,353 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:13:01,354 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:13:01,355 - research - INFO - Scraped data size: 3
+2025-03-26 14:13:01,901 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:02,099 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:02,832 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:02,836 - research - INFO - Content found for sub-query: 9889 chars
+2025-03-26 14:13:02,885 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:03,186 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/家裡有黴菌怎麼辦？/
+2025-03-26 14:13:03,316 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.airitilibrary.com/Article/Detail/U0006-2207201010283700
+2025-03-26 14:13:03,316 - research - INFO - Scraped data size: 3
+2025-03-26 14:13:03,474 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:13:03,476 - research - INFO - Scraped data size: 3
+2025-03-26 14:13:03,707 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:03,712 - research - INFO - Content found for sub-query: 10194 chars
+2025-03-26 14:13:04,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:04,151 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:04,170 - research - INFO - Content found for sub-query: 7558 chars
+2025-03-26 14:13:04,801 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:04,803 - research - INFO - Content found for sub-query: 8398 chars
+2025-03-26 14:13:04,936 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:05,623 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:13:05,626 - research - INFO - Content found for sub-query: 8251 chars
+2025-03-26 14:13:05,626 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:13:05,626 - research - INFO - Combined context size: 44294
+2025-03-26 14:13:05,627 - research - INFO - Research completed. Context size: 44294
+2025-03-26 14:13:05,628 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 44294}}
+2025-03-26 14:13:05,628 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:13:07,924 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:13:20,979 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 6993}}
+2025-03-26 14:16:56,275 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:16:56,276 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:16:57,526 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:16:57,743 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:16:57,744 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddea Science Agent", "role": "You are a knowledgeable AI science assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-structured scientific explanations and reports on various topics, including biology, chemistry, physics, and environmental science."}}
+2025-03-26 14:16:57,745 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:16:57,745 - research - INFO - Using web search
+2025-03-26 14:16:57,745 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:16:57,745 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:17:00,113 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:17:37,794 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:17:37,796 - research - INFO - Research outline planned: ['黑黴菌 健康風險 過敏反應與分生孢子菌症 最新研究', '黑黴菌 與大廈綜合症：中央空調下霉菌傳播機制', '居家黑黴菌 清除與預防方法：含氯漂白劑與通風措施', '黑黴菌 生長條件與分類：菌絲體結構及孢子形成的學術研究']
+2025-03-26 14:17:37,798 - research - INFO - Generated sub-queries: ['黑黴菌 健康風險 過敏反應與分生孢子菌症 最新研究', '黑黴菌 與大廈綜合症：中央空調下霉菌傳播機制', '居家黑黴菌 清除與預防方法：含氯漂白劑與通風措施', '黑黴菌 生長條件與分類：菌絲體結構及孢子形成的學術研究']
+2025-03-26 14:17:39,743 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:39,744 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:39,744 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:39,744 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:39,744 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,094 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,095 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,095 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:17:40,096 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,098 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,183 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,184 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,184 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,204 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:17:40,204 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:17:40,206 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:17:40,207 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,229 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:17:40,231 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:17:40,232 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:17:40,232 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:17:40,232 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,232 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:17:40,232 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:17:40,234 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:17:40,234 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:17:40,234 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,277 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:17:40,277 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:17:40,277 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:17:40,277 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:17:40,277 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,449 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:17:40,449 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:17:40,449 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:17:40,449 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:17:40,449 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,496 - ycm_researcher.scraper.scraper - INFO - 
+Title: 微生物與健康產業：黴菌與健康| - 科技大觀園
+2025-03-26 14:17:40,496 - ycm_researcher.scraper.scraper - INFO - Content length: 4046 characters
+2025-03-26 14:17:40,496 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:17:40,497 - ycm_researcher.scraper.scraper - INFO - URL: https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=619f7e40-efdd-48d4-a6fe-a1714b15d660
+2025-03-26 14:17:40,497 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,511 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:17:40,512 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:17:40,512 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:17:40,513 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:17:40,513 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,513 - research - INFO - Scraped data size: 5
+2025-03-26 14:17:40,612 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,612 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:17:40,612 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,691 - ycm_researcher.scraper.scraper - INFO - 
+Title: 食物發霉切掉照吃？家中暗藏５種黴菌 跑進身體毒害你
+2025-03-26 14:17:40,706 - ycm_researcher.scraper.scraper - INFO - Content length: 2752 characters
+2025-03-26 14:17:40,706 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:17:40,706 - ycm_researcher.scraper.scraper - INFO - URL: https://health.tvbs.com.tw/regimen/308710
+2025-03-26 14:17:40,710 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,721 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,721 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,722 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,722 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,722 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:17:40,764 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.iaq.gov.hk/wp-content/uploads/2021/08/slides-for-indoor-mould-part-2-chi.pdf: too many values to unpack (expected 3)
+2025-03-26 14:17:40,865 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌介紹》種類、生長條件與作用 | 振泰檢驗JTS
+2025-03-26 14:17:40,865 - ycm_researcher.scraper.scraper - INFO - Content length: 2864 characters
+2025-03-26 14:17:40,865 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:17:40,865 - ycm_researcher.scraper.scraper - INFO - URL: https://www.stst.com.tw/class/id=1176
+2025-03-26 14:17:40,865 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,911 - ycm_researcher.scraper.scraper - ERROR - Error processing http://tw.classf0001.uschoolnet.com/css000000060525/cm7kfile-1316200320-2469-5596.pdf: too many values to unpack (expected 3)
+2025-03-26 14:17:40,977 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:17:40,977 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:17:40,980 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh/黴菌
+2025-03-26 14:17:40,980 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:40,981 - research - INFO - Scraped data size: 2
+2025-03-26 14:17:41,222 - ycm_researcher.scraper.scraper - INFO - Content length: 2055 characters
+2025-03-26 14:17:41,223 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:17:41,223 - ycm_researcher.scraper.scraper - INFO - URL: https://www.archdaily.cn/cn/939343/ru-he-jian-shao-hei-mei-jun-dui-jian-zhu-yu-ren-lei-de-wei-hai
+2025-03-26 14:17:41,223 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:41,228 - ycm_researcher.scraper.scraper - INFO - 
+Title: 打敗黴菌：預防與清除指南 - 39健康網
+2025-03-26 14:17:41,228 - ycm_researcher.scraper.scraper - INFO - Content length: 1622 characters
+2025-03-26 14:17:41,228 - ycm_researcher.scraper.scraper - INFO - Number of images: 2
+2025-03-26 14:17:41,230 - ycm_researcher.scraper.scraper - INFO - URL: https://www.39health.com.tw/threads/122_dc4ubw
+2025-03-26 14:17:41,230 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:41,535 - ycm_researcher.scraper.scraper - INFO - 
+Title: 什麼是建築綜合症以及為什麼要予以關注？ | Camfil
+2025-03-26 14:17:41,535 - ycm_researcher.scraper.scraper - INFO - Content length: 2616 characters
+2025-03-26 14:17:41,535 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:17:41,535 - ycm_researcher.scraper.scraper - INFO - URL: https://www.camfil.com/zh-tw/insights/commercial-and-public-buildings/what-is-sick-building-syndrome
+2025-03-26 14:17:41,535 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:41,561 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:41,610 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 過敏原基本資料、症狀和治療 | Allergy Insider
+2025-03-26 14:17:41,610 - ycm_researcher.scraper.scraper - INFO - Content length: 8118 characters
+2025-03-26 14:17:41,610 - ycm_researcher.scraper.scraper - INFO - Number of images: 9
+2025-03-26 14:17:41,611 - ycm_researcher.scraper.scraper - INFO - URL: https://www.thermofisher.com/allergy/tw/zh/allergen-fact-sheets/mold.html
+2025-03-26 14:17:41,611 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:41,612 - research - INFO - Scraped data size: 3
+2025-03-26 14:17:41,663 - ycm_researcher.scraper.scraper - INFO - 
+Title: 告別惱人黴菌：全方位居家除霉指南 – 浣熊環保清潔有限公司
+2025-03-26 14:17:41,664 - ycm_researcher.scraper.scraper - INFO - Content length: 1083 characters
+2025-03-26 14:17:41,664 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:17:41,664 - ycm_researcher.scraper.scraper - INFO - URL: https://raccoonclean.com/2024/09/02/告別惱人黴菌：全方位居家除霉指南/
+2025-03-26 14:17:41,664 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:41,689 - ycm_researcher.scraper.scraper - INFO - 
+Title: 炎夏慎防 冷氣病 - 明醫網
+2025-03-26 14:17:41,689 - ycm_researcher.scraper.scraper - INFO - Content length: 3490 characters
+2025-03-26 14:17:41,690 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:17:41,690 - ycm_researcher.scraper.scraper - INFO - URL: https://www.mingpaocanada.com/healthnet/content.php?artid=889
+2025-03-26 14:17:41,690 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:17:41,690 - research - INFO - Scraped data size: 4
+2025-03-26 14:17:41,828 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:42,281 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:42,282 - research - INFO - Content found for sub-query: 8628 chars
+2025-03-26 14:17:42,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:42,449 - research - INFO - Content found for sub-query: 3525 chars
+2025-03-26 14:17:42,506 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:42,724 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:43,436 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:43,439 - research - INFO - Content found for sub-query: 10777 chars
+2025-03-26 14:17:43,624 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:43,627 - research - INFO - Content found for sub-query: 10554 chars
+2025-03-26 14:17:44,785 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:17:45,040 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/如何去除黑色黴菌？/
+2025-03-26 14:17:45,056 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://imarkettomo.cc/如何清除黴菌？/
+2025-03-26 14:17:45,057 - research - INFO - Scraped data size: 2
+2025-03-26 14:17:45,407 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:45,884 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:17:45,885 - research - INFO - Content found for sub-query: 3280 chars
+2025-03-26 14:17:45,885 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:17:45,885 - research - INFO - Combined context size: 36768
+2025-03-26 14:17:45,889 - research - INFO - Research completed. Context size: 36768
+2025-03-26 14:17:45,890 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 36768}}
+2025-03-26 14:17:45,890 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:17:48,011 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:18:02,396 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 7390}}
+2025-03-26 14:22:12,735 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:22:12,736 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:22:14,064 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:22:14,274 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:22:14,277 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddec Biology Agent", "role": "You are a knowledgeable AI biology assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-organized biological insights, explanations, and research findings on given topics, including organisms, ecosystems, and biological processes."}}
+2025-03-26 14:22:14,277 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:22:14,278 - research - INFO - Using web search
+2025-03-26 14:22:14,279 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:22:14,280 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:22:16,765 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:22:40,203 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:22:40,208 - research - INFO - Research outline planned: ['黑黴菌 健康危害 過敏反應 分生孢子菌症 最新研究 2025', '如何預防與清除黑黴菌 室內黴菌防治方法與安全指南', '大廈綜合症 中央空調 黴菌傳播 黑黴菌案例與科學研究', '黑黴菌 定義 特性 與其他常見黴菌區分 客觀科普解析']
+2025-03-26 14:22:40,210 - research - INFO - Generated sub-queries: ['黑黴菌 健康危害 過敏反應 分生孢子菌症 最新研究 2025', '如何預防與清除黑黴菌 室內黴菌防治方法與安全指南', '大廈綜合症 中央空調 黴菌傳播 黑黴菌案例與科學研究', '黑黴菌 定義 特性 與其他常見黴菌區分 客觀科普解析']
+2025-03-26 14:22:41,721 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:41,721 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:41,721 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:41,721 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:41,724 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,032 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:22:42,032 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:22:42,032 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:22:42,032 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:22:42,032 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,137 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:22:42,137 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:22:42,137 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:22:42,137 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:22:42,137 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,172 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:22:42,172 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:22:42,172 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:22:42,173 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:22:42,173 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,182 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:22:42,182 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:22:42,182 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:22:42,182 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,418 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:22:42,419 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:22:42,419 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:22:42,419 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:22:42,420 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,421 - research - INFO - Scraped data size: 5
+2025-03-26 14:22:42,522 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,523 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,523 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,524 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,713 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,713 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,718 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,719 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,720 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,721 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,752 - ycm_researcher.scraper.scraper - INFO - 
+Title: 台灣黴菌實驗中心 – Taiwan Mycology Reference Center
+2025-03-26 14:22:42,752 - ycm_researcher.scraper.scraper - INFO - Content length: 1722 characters
+2025-03-26 14:22:42,753 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:22:42,753 - ycm_researcher.scraper.scraper - INFO - URL: https://mycology.nhri.edu.tw/
+2025-03-26 14:22:42,753 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,790 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,790 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,792 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,793 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:22:42,794 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:22:42,853 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 過敏原基本資料、症狀和治療 | Allergy Insider
+2025-03-26 14:22:42,853 - ycm_researcher.scraper.scraper - INFO - Content length: 8118 characters
+2025-03-26 14:22:42,853 - ycm_researcher.scraper.scraper - INFO - Number of images: 9
+2025-03-26 14:22:42,853 - ycm_researcher.scraper.scraper - INFO - URL: https://www.thermofisher.com/allergy/tw/zh/allergen-fact-sheets/mold.html
+2025-03-26 14:22:42,854 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,974 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌介紹》種類、生長條件與作用 | 振泰檢驗JTS
+2025-03-26 14:22:42,975 - ycm_researcher.scraper.scraper - INFO - Content length: 2864 characters
+2025-03-26 14:22:42,975 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:22:42,975 - ycm_researcher.scraper.scraper - INFO - URL: https://www.stst.com.tw/class/id=1176
+2025-03-26 14:22:42,975 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:42,991 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑色黴菌侵入你家怎麼辦？清除和預防的方法一次看｜生活Newnews
+2025-03-26 14:22:42,991 - ycm_researcher.scraper.scraper - INFO - Content length: 2265 characters
+2025-03-26 14:22:42,991 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:22:42,993 - ycm_researcher.scraper.scraper - INFO - URL: https://newnews.tw/prevent-black-mold/
+2025-03-26 14:22:42,993 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:43,037 - ycm_researcher.scraper.scraper - INFO - Content length: 3462 characters
+2025-03-26 14:22:43,037 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:22:43,037 - ycm_researcher.scraper.scraper - INFO - URL: https://health.tvbs.com.tw/medical/328235
+2025-03-26 14:22:43,037 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:43,104 - ycm_researcher.scraper.scraper - INFO - 
+Title: 11 種有效減輕室內黴菌過敏症狀的方法 | Allergy Insider
+2025-03-26 14:22:43,104 - ycm_researcher.scraper.scraper - INFO - Content length: 7352 characters
+2025-03-26 14:22:43,104 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:22:43,104 - ycm_researcher.scraper.scraper - INFO - URL: https://www.thermofisher.com/allergy/tw/zh/living-with-allergies/understanding-allergies/ways-to-reduce-indoor-mold-allergy.html
+2025-03-26 14:22:43,104 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:43,121 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何消除房間黴菌？完整教學及預防秘訣！ - 探索水晶的神秘力量
+2025-03-26 14:22:43,122 - ycm_researcher.scraper.scraper - INFO - Content length: 6989 characters
+2025-03-26 14:22:43,122 - ycm_researcher.scraper.scraper - INFO - Number of images: 4
+2025-03-26 14:22:43,122 - ycm_researcher.scraper.scraper - INFO - URL: https://www.crystal-news.com/如何消除房間黴菌？/
+2025-03-26 14:22:43,122 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:43,201 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:43,891 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑黴菌是哪一界？ - Tomo's Blog
+2025-03-26 14:22:43,891 - ycm_researcher.scraper.scraper - INFO - Content length: 3365 characters
+2025-03-26 14:22:43,891 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:22:43,891 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/黑黴菌是哪一界？/
+2025-03-26 14:22:43,891 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:43,893 - research - INFO - Scraped data size: 2
+2025-03-26 14:22:43,933 - ycm_researcher.scraper.scraper - INFO - 
+Title: 最新消息-社團法人台灣病態建築診斷協會
+2025-03-26 14:22:43,933 - ycm_researcher.scraper.scraper - INFO - Content length: 638 characters
+2025-03-26 14:22:43,937 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:22:43,937 - ycm_researcher.scraper.scraper - INFO - URL: https://www.twasbc.org/news-5_005.php
+2025-03-26 14:22:43,937 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:43,976 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:22:43,977 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:22:43,977 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:22:43,977 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:22:43,977 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:43,978 - research - INFO - Scraped data size: 4
+2025-03-26 14:22:44,045 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:44,068 - research - INFO - Content found for sub-query: 8628 chars
+2025-03-26 14:22:44,103 - ycm_researcher.scraper.scraper - INFO - 
+Title: 什麼是建築綜合症以及為什麼要予以關注？ | Camfil
+2025-03-26 14:22:44,103 - ycm_researcher.scraper.scraper - INFO - Content length: 2616 characters
+2025-03-26 14:22:44,104 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:22:44,104 - ycm_researcher.scraper.scraper - INFO - URL: https://www.camfil.com/zh-tw/insights/commercial-and-public-buildings/what-is-sick-building-syndrome
+2025-03-26 14:22:44,104 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:44,326 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:44,929 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:44,931 - research - INFO - Content found for sub-query: 4267 chars
+2025-03-26 14:22:45,021 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:45,441 - ycm_researcher.scraper.scraper - INFO - 
+Title: 社團法人台灣病態建築診斷協會_Taiwan Association of Sick-Building Consultants
+2025-03-26 14:22:45,441 - ycm_researcher.scraper.scraper - INFO - Content length: 1180 characters
+2025-03-26 14:22:45,441 - ycm_researcher.scraper.scraper - INFO - Number of images: 2
+2025-03-26 14:22:45,441 - ycm_researcher.scraper.scraper - INFO - URL: https://www.twasbc.org/detail.php?docId=271
+2025-03-26 14:22:45,441 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:45,758 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何去除黑黴菌？ - Tomo's Blog
+2025-03-26 14:22:45,758 - ycm_researcher.scraper.scraper - INFO - Content length: 3150 characters
+2025-03-26 14:22:45,760 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:22:45,760 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:22:45,760 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:46,149 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:46,153 - research - INFO - Content found for sub-query: 10447 chars
+2025-03-26 14:22:46,188 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.bers.nyc.gov/assets/doh/downloads/pdf/epi/prevent-and-get-rid-of-mold-ch.pdf: too many values to unpack (expected 3)
+2025-03-26 14:22:46,191 - research - INFO - Scraped data size: 4
+2025-03-26 14:22:47,116 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:48,591 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:22:48,887 - research - INFO - Content found for sub-query: 10732 chars
+2025-03-26 14:22:49,283 - ycm_researcher.scraper.scraper - INFO - 
+Title: 
+2025-03-26 14:22:49,284 - ycm_researcher.scraper.scraper - INFO - Content length: 849280 characters
+2025-03-26 14:22:49,284 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:22:49,284 - ycm_researcher.scraper.scraper - INFO - URL: https://www.tafm.org.tw/ehc-tafm/s/viewDocument?documentId=0e0d621df1d34cffbe42c11803971315
+2025-03-26 14:22:49,284 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:22:49,286 - research - INFO - Scraped data size: 4
+2025-03-26 14:23:01,010 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:23:03,901 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:23:05,112 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:23:05,165 - research - INFO - Content found for sub-query: 5520 chars
+2025-03-26 14:23:05,165 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:23:05,166 - research - INFO - Combined context size: 39598
+2025-03-26 14:23:05,166 - research - INFO - Research completed. Context size: 39598
+2025-03-26 14:23:05,166 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 39598}}
+2025-03-26 14:23:05,167 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:23:07,194 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:23:21,597 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 8204}}
+2025-03-26 14:36:06,053 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:36:06,054 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:36:07,287 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:36:07,497 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:36:07,499 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddea Science Agent", "role": "You are a knowledgeable AI science assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-structured scientific explanations or reports based on the given topic, including biological, chemical, or environmental insights."}}
+2025-03-26 14:36:07,499 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:36:07,501 - research - INFO - Using web search
+2025-03-26 14:36:07,501 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:36:07,501 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:36:09,997 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:36:10,249 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.002805, "total_cost": 0.002805}}
+2025-03-26 14:36:32,982 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:36:32,985 - research - INFO - Research outline planned: ['黑黴菌 健康風險 大廈綜合症 最新研究', '黑黴菌 室內環境成因 與預防措施 專家建議', '黑黴菌 分生孢子菌症 病理機制 與治療案例', '黑黴菌 清除方法 含氯漂白劑 實證評估 與環境控制']
+2025-03-26 14:36:32,986 - research - INFO - Generated sub-queries: ['黑黴菌 健康風險 大廈綜合症 最新研究', '黑黴菌 室內環境成因 與預防措施 專家建議', '黑黴菌 分生孢子菌症 病理機制 與治療案例', '黑黴菌 清除方法 含氯漂白劑 實證評估 與環境控制']
+2025-03-26 14:36:32,988 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.009720000000000001, "total_cost": 0.012525000000000001}}
+2025-03-26 14:36:34,960 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:34,961 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:34,962 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:34,964 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:34,965 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,006 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://premium.parenting.com.tw/article/5091827
+2025-03-26 14:36:35,173 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑色黴菌侵入你家怎麼辦？清除和預防的方法一次看｜生活Newnews
+2025-03-26 14:36:35,176 - ycm_researcher.scraper.scraper - INFO - Content length: 2265 characters
+2025-03-26 14:36:35,176 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:36:35,176 - ycm_researcher.scraper.scraper - INFO - URL: https://newnews.tw/prevent-black-mold/
+2025-03-26 14:36:35,177 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,220 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,220 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,220 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,220 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,240 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,240 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,240 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,242 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,243 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,269 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,270 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,270 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,693 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何去除黑黴菌？ - Tomo's Blog
+2025-03-26 14:36:35,695 - ycm_researcher.scraper.scraper - INFO - Content length: 3150 characters
+2025-03-26 14:36:35,696 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:36:35,697 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:36:35,698 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,699 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,699 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:36:35,700 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:36:35,701 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:36:35,701 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:36:35,703 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,704 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,734 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑黴菌，一種無聲的入侵者 - I'm Biotechnology
+2025-03-26 14:36:35,735 - ycm_researcher.scraper.scraper - INFO - Content length: 1808 characters
+2025-03-26 14:36:35,735 - ycm_researcher.scraper.scraper - INFO - Number of images: 5
+2025-03-26 14:36:35,736 - ycm_researcher.scraper.scraper - INFO - URL: https://imbio.group/健康/黑黴菌，一種無聲的入侵者/?lang=zh-hant
+2025-03-26 14:36:35,736 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,737 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,755 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:36:35,756 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:36:35,756 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:36:35,757 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:36:35,757 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,758 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,773 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:36:35,773 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:36:35,775 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:36:35,775 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:36:35,775 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,776 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:36:35,784 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:36:35,785 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:36:35,786 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:36:35,786 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:36:35,786 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,816 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:36:35,816 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:36:35,816 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:36:35,817 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,820 - research - INFO - Scraped data size: 5
+2025-03-26 14:36:35,921 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00028266, "total_cost": 0.012807660000000002}}
+2025-03-26 14:36:35,990 - ycm_researcher.scraper.scraper - INFO - Content length: 3735 characters
+2025-03-26 14:36:35,994 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:36:35,994 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikihow.com/清除黑霉
+2025-03-26 14:36:35,994 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,995 - ycm_researcher.scraper.scraper - INFO - 
+Title: 家庭去除黴菌的三種方法，讓您擺脫黴菌的困擾！
+2025-03-26 14:36:35,995 - ycm_researcher.scraper.scraper - INFO - Content length: 4816 characters
+2025-03-26 14:36:35,995 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:36:35,995 - ycm_researcher.scraper.scraper - INFO - URL: https://lifeonea.com/4400/
+2025-03-26 14:36:35,995 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:35,996 - research - INFO - Scraped data size: 4
+2025-03-26 14:36:36,004 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00039422000000000003, "total_cost": 0.013201880000000003}}
+2025-03-26 14:36:36,051 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑黴菌有毒嗎？ - Tomo's Blog
+2025-03-26 14:36:36,053 - ycm_researcher.scraper.scraper - INFO - Content length: 3539 characters
+2025-03-26 14:36:36,053 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:36:36,053 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/黑黴菌有毒嗎？/
+2025-03-26 14:36:36,053 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:36,160 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:36:36,160 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:36:36,161 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:36:36,161 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:36:36,161 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:36,723 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:36,806 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:38,536 - ycm_researcher.scraper.scraper - INFO - Content length: 3026 characters
+2025-03-26 14:36:38,536 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:36:38,536 - ycm_researcher.scraper.scraper - INFO - URL: https://www.x-mol.com/paper/1234782083456266240/t?adv
+2025-03-26 14:36:38,537 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,539 - ycm_researcher.scraper.scraper - INFO - 
+Title: 在霉菌損害的建築物中預防或減少呼吸道感染和氣喘症狀的介入措施 | Cochrane
+2025-03-26 14:36:38,540 - ycm_researcher.scraper.scraper - INFO - Content length: 1031 characters
+2025-03-26 14:36:38,541 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:36:38,541 - ycm_researcher.scraper.scraper - INFO - URL: https://www.cochrane.org/zh-hant/CD007897/ARI_zai-mei-jun-sun-hai-de-jian-zhu-wu-zhong-yu-fang-huo-jian-shao-hu-xi-dao-gan-ran-he-qi-chuan-zheng
+2025-03-26 14:36:38,541 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,754 - ycm_researcher.scraper.scraper - INFO - Content length: 3067 characters
+2025-03-26 14:36:38,754 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:36:38,755 - ycm_researcher.scraper.scraper - INFO - URL: https://www.cn-healthcare.com/articlewm/20220117/content-1306909.html
+2025-03-26 14:36:38,756 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,764 - ycm_researcher.scraper.scraper - INFO - Content length: 2616 characters
+2025-03-26 14:36:38,764 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:36:38,764 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-hans/分生孢子
+2025-03-26 14:36:38,764 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,770 - ycm_researcher.scraper.scraper - INFO - 
+Title: 分生孢子 - 維基百科，自由的百科全書
+2025-03-26 14:36:38,772 - ycm_researcher.scraper.scraper - INFO - Content length: 2629 characters
+2025-03-26 14:36:38,772 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:36:38,772 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/分生胞子
+2025-03-26 14:36:38,772 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,791 - ycm_researcher.scraper.scraper - INFO - 
+Title: 牆壁發霉救星！居家環境改善專家教你揮別黴菌 - 阿達水電王 裝修達人
+2025-03-26 14:36:38,793 - ycm_researcher.scraper.scraper - INFO - Content length: 4761 characters
+2025-03-26 14:36:38,794 - ycm_researcher.scraper.scraper - INFO - Number of images: 7
+2025-03-26 14:36:38,794 - ycm_researcher.scraper.scraper - INFO - URL: https://shengren.com.tw/牆壁發霉/
+2025-03-26 14:36:38,794 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,815 - ycm_researcher.scraper.scraper - INFO - Content length: 2055 characters
+2025-03-26 14:36:38,815 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:36:38,815 - ycm_researcher.scraper.scraper - INFO - URL: https://www.archdaily.cn/cn/939343/ru-he-jian-shao-hei-mei-jun-dui-jian-zhu-yu-ren-lei-de-wei-hai
+2025-03-26 14:36:38,816 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,816 - ycm_researcher.scraper.scraper - INFO - 
+Title: 什麼是建築綜合症以及為什麼要予以關注？ | Camfil
+2025-03-26 14:36:38,816 - ycm_researcher.scraper.scraper - INFO - Content length: 2616 characters
+2025-03-26 14:36:38,816 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:36:38,816 - ycm_researcher.scraper.scraper - INFO - URL: https://www.camfil.com/zh-tw/insights/commercial-and-public-buildings/what-is-sick-building-syndrome
+2025-03-26 14:36:38,816 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,819 - research - INFO - Scraped data size: 4
+2025-03-26 14:36:38,825 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00036118, "total_cost": 0.013563060000000002}}
+2025-03-26 14:36:38,828 - research - INFO - Scraped data size: 3
+2025-03-26 14:36:38,870 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00048514, "total_cost": 0.014048200000000002}}
+2025-03-26 14:36:38,943 - ycm_researcher.scraper.scraper - INFO - 
+Title: 
+2025-03-26 14:36:38,943 - ycm_researcher.scraper.scraper - INFO - Content length: 690952 characters
+2025-03-26 14:36:38,943 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:36:38,943 - ycm_researcher.scraper.scraper - INFO - URL: https://www.cdc.gov.tw/File/Get?q=66HT6AZdVjKmPmyJ9OclbKiGjeMOe7EEreZcFYoK1LnoZuAqmQUy16jtjVF4NVDUZNP2FKHUQMCdy5JFs57q4fQ4uBs1fRG21qlW7hsOinmdvFa2vMIOgUOiBoL7H6bZuc90CC1iCL5t14iMZDaDCg
+2025-03-26 14:36:38,943 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:36:38,948 - research - INFO - Scraped data size: 5
+2025-03-26 14:36:39,049 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:39,190 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.01112752, "total_cost": 0.025175720000000002}}
+2025-03-26 14:36:39,191 - research - INFO - Content found for sub-query: 8628 chars
+2025-03-26 14:36:39,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:39,232 - research - INFO - Content found for sub-query: 10566 chars
+2025-03-26 14:36:39,700 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:39,810 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:40,863 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:40,868 - research - INFO - Content found for sub-query: 10598 chars
+2025-03-26 14:36:40,875 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:40,878 - research - INFO - Content found for sub-query: 10785 chars
+2025-03-26 14:36:50,801 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:52,952 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:36:52,996 - research - INFO - Content found for sub-query: 9378 chars
+2025-03-26 14:36:52,998 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:36:52,998 - research - INFO - Combined context size: 49959
+2025-03-26 14:36:52,998 - research - INFO - Research completed. Context size: 49959
+2025-03-26 14:36:52,999 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 49959}}
+2025-03-26 14:36:53,000 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:36:55,350 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:37:09,155 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 7591}}
+2025-03-26 14:37:09,167 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.24726000000000004, "total_cost": 0.27243572000000005}}
+2025-03-26 14:41:18,783 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:41:18,783 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:41:19,968 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:41:20,183 - research - ERROR - Error in _log_event: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+Traceback (most recent call last):
+  File "D:\YCM_Researcher_Enhanced\ycm_researcher\agent.py", line 106, in _log_event
+    await self.log_handler.on_agent_action(kwargs.get('action', ''), **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearchProgressHandler.on_agent_action() got multiple values for argument 'action'
+2025-03-26 14:41:20,188 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddec Biology Agent", "role": "You are a knowledgeable AI biology assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-structured biological insights and explanations on given topics, including organisms, processes, and scientific phenomena."}}
+2025-03-26 14:41:20,188 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:41:20,188 - research - INFO - Using web search
+2025-03-26 14:41:20,188 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:41:20,188 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:41:21,911 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:41:22,158 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.002775, "total_cost": 0.002775}}
+2025-03-26 14:41:50,609 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:41:50,611 - research - INFO - Research outline planned: ['黑黴菌 健康風險 分生孢子菌症 大廈症候群 最新研究', '黑黴菌 清除與預防方法 含氯漂白劑 室內通風 乾燥環境', '黑黴菌 定義與分類 與其他黴菌（如青黴菌、紅黴菌）比較', '黑黴菌 工業應用 黑麴黴發酵 檸檬酸及有機酸生產 安全性評估']
+2025-03-26 14:41:50,611 - research - INFO - Generated sub-queries: ['黑黴菌 健康風險 分生孢子菌症 大廈症候群 最新研究', '黑黴菌 清除與預防方法 含氯漂白劑 室內通風 乾燥環境', '黑黴菌 定義與分類 與其他黴菌（如青黴菌、紅黴菌）比較', '黑黴菌 工業應用 黑麴黴發酵 檸檬酸及有機酸生產 安全性評估']
+2025-03-26 14:41:50,612 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.010140000000000001, "total_cost": 0.012915000000000001}}
+2025-03-26 14:41:52,407 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,407 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,408 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,408 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,408 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,825 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:41:52,826 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:41:52,826 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:41:52,826 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:41:52,826 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:52,862 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:41:52,863 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:41:52,863 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:41:52,864 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:41:52,864 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:52,868 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:41:52,869 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:41:52,869 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:41:52,870 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:41:52,870 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:52,890 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,891 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:41:52,891 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,892 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:41:52,893 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:52,904 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:41:52,904 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:41:52,904 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:41:52,904 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:52,904 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:41:52,904 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:41:52,905 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:41:52,905 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:41:52,905 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:52,906 - research - INFO - Scraped data size: 5
+2025-03-26 14:41:52,997 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00028266, "total_cost": 0.013197660000000002}}
+2025-03-26 14:41:53,005 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,038 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,038 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,040 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,281 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.mxeduc.org.tw/scienceaward/history/projectDoc/6th/doc/SA6-090_final.pdf: too many values to unpack (expected 3)
+2025-03-26 14:41:53,284 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,284 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,285 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,286 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,287 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:41:53,288 - ycm_researcher.scraper.scraper - INFO - 
+Title: 台灣黴菌實驗中心 – Taiwan Mycology Reference Center
+2025-03-26 14:41:53,289 - ycm_researcher.scraper.scraper - INFO - Content length: 1722 characters
+2025-03-26 14:41:53,289 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:41:53,290 - ycm_researcher.scraper.scraper - INFO - URL: https://mycology.nhri.edu.tw/
+2025-03-26 14:41:53,291 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:53,348 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:41:53,348 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:41:53,349 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh/黴菌
+2025-03-26 14:41:53,349 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:53,350 - research - INFO - Scraped data size: 1
+2025-03-26 14:41:53,351 - research - INFO - research: {"step": "cost_update", "details": {"cost": 4.8820000000000004e-05, "total_cost": 0.013246480000000001}}
+2025-03-26 14:41:53,498 - ycm_researcher.scraper.scraper - ERROR - Error processing https://kmweb.moa.gov.tw/files/document/388223/dd5b616e8af15421cda06bb522fe1d35_v1.pdf: too many values to unpack (expected 3)
+2025-03-26 14:41:53,525 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑色黴菌侵入你家怎麼辦？清除和預防的方法一次看｜生活Newnews
+2025-03-26 14:41:53,525 - ycm_researcher.scraper.scraper - INFO - Content length: 2265 characters
+2025-03-26 14:41:53,526 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:41:53,526 - ycm_researcher.scraper.scraper - INFO - URL: https://newnews.tw/prevent-black-mold/
+2025-03-26 14:41:53,526 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:53,551 - ycm_researcher.scraper.scraper - INFO - Content length: 3462 characters
+2025-03-26 14:41:53,551 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:41:53,551 - ycm_researcher.scraper.scraper - INFO - URL: https://health.tvbs.com.tw/medical/328235
+2025-03-26 14:41:53,551 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:53,574 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何去除牆上的黴菌？ 專家推薦用這一物 | 牆壁 | 健康 | 黑黴菌 | 大紀元
+2025-03-26 14:41:53,576 - ycm_researcher.scraper.scraper - INFO - Content length: 2382 characters
+2025-03-26 14:41:53,576 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:41:53,576 - ycm_researcher.scraper.scraper - INFO - URL: https://www.epochtimes.com/b5/24/11/10/n14368025.htm
+2025-03-26 14:41:53,576 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:53,579 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:53,784 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:53,808 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑曲霉 - Wikiwand
+2025-03-26 14:41:53,808 - ycm_researcher.scraper.scraper - INFO - Content length: 643 characters
+2025-03-26 14:41:53,809 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:41:53,809 - ycm_researcher.scraper.scraper - INFO - URL: https://www.wikiwand.com/zh-hk/articles/黑曲霉
+2025-03-26 14:41:53,809 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:53,870 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何去除黑黴菌？ - Tomo's Blog
+2025-03-26 14:41:53,870 - ycm_researcher.scraper.scraper - INFO - Content length: 3150 characters
+2025-03-26 14:41:53,870 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:41:53,870 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:41:53,870 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:53,909 - ycm_researcher.scraper.scraper - INFO - Content length: 3735 characters
+2025-03-26 14:41:53,909 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:41:53,909 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikihow.com/清除黑霉
+2025-03-26 14:41:53,909 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:54,034 - ycm_researcher.scraper.scraper - INFO - 
+Title: 菌菌發酵顯威！黑麴菌、溶脂念珠菌掀起飲料工業的二次革命 @ 食力foodNEXT‧食事求實的知識頻道
+2025-03-26 14:41:54,035 - ycm_researcher.scraper.scraper - INFO - Content length: 3849 characters
+2025-03-26 14:41:54,035 - ycm_researcher.scraper.scraper - INFO - Number of images: 6
+2025-03-26 14:41:54,036 - ycm_researcher.scraper.scraper - INFO - URL: https://www.foodnext.net/science/machining/paper/5098275823
+2025-03-26 14:41:54,036 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:54,092 - ycm_researcher.scraper.scraper - INFO - 
+Title: 家庭去除黴菌的三種方法，讓您擺脫黴菌的困擾！
+2025-03-26 14:41:54,093 - ycm_researcher.scraper.scraper - INFO - Content length: 4922 characters
+2025-03-26 14:41:54,093 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:41:54,093 - ycm_researcher.scraper.scraper - INFO - URL: https://lifeonea.com/4400/
+2025-03-26 14:41:54,093 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:54,094 - research - INFO - Scraped data size: 5
+2025-03-26 14:41:54,100 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.0004671, "total_cost": 0.013713580000000001}}
+2025-03-26 14:41:54,292 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:54,295 - research - INFO - Content found for sub-query: 2438 chars
+2025-03-26 14:41:54,373 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:54,376 - research - INFO - Content found for sub-query: 8628 chars
+2025-03-26 14:41:54,521 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:41:54,521 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:41:54,521 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:41:54,523 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:41:54,524 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:41:54,526 - research - INFO - Scraped data size: 3
+2025-03-26 14:41:54,532 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.0005453, "total_cost": 0.014258880000000002}}
+2025-03-26 14:41:55,182 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:55,520 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:55,925 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:55,929 - research - INFO - Content found for sub-query: 10651 chars
+2025-03-26 14:41:56,420 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:56,423 - research - INFO - Content found for sub-query: 10072 chars
+2025-03-26 14:41:57,017 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=619f7e40-efdd-48d4-a6fe-a1714b15d660
+2025-03-26 14:41:57,019 - research - INFO - Scraped data size: 2
+2025-03-26 14:41:57,021 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00013364, "total_cost": 0.014392520000000002}}
+2025-03-26 14:41:57,781 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:58,543 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:41:58,546 - research - INFO - Content found for sub-query: 4770 chars
+2025-03-26 14:41:58,546 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:41:58,547 - research - INFO - Combined context size: 36563
+2025-03-26 14:41:58,548 - research - INFO - Research completed. Context size: 36563
+2025-03-26 14:41:58,548 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 36563}}
+2025-03-26 14:41:58,548 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:42:00,366 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:42:14,840 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 7338}}
+2025-03-26 14:42:14,840 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.190495, "total_cost": 0.20488752}}
+2025-03-26 14:42:43,099 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:42:43,099 - research - INFO - action: {"action": "choose_agent"}
+2025-03-26 14:42:44,242 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:42:44,442 - research - INFO - action: {"action": "agent_selected", "details": {"agent": "\ud83e\uddec Biology Agent", "role": "You are a knowledgeable AI biology assistant. Your primary purpose is to provide detailed, accurate, unbiased, and well-structured biological explanations and reports on given topics, including organisms, processes, and scientific insights."}}
+2025-03-26 14:42:44,442 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddec Biology Agent", "role": "You are a knowledgeable AI biology assistant. Your primary purpose is to provide detailed, accurate, unbiased, and well-structured biological explanations and reports on given topics, including organisms, processes, and scientific insights."}}
+2025-03-26 14:42:44,443 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:42:44,443 - research - INFO - Using web search
+2025-03-26 14:42:44,443 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:42:44,443 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:42:46,875 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:42:47,120 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.002775, "total_cost": 0.002775}}
+2025-03-26 14:43:13,543 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:43:13,545 - research - INFO - Research outline planned: ['黑黴菌 健康風險與過敏反應：分生孢子菌症文獻綜述', '居家環境中黑黴菌的預防與清除方法：專家建議與控制措施', '黑黴菌的生物學特性與孢子繁殖機制：分類與對比分析', '黑黴菌與大廈綜合症關聯：室內空調傳播與案例研究']
+2025-03-26 14:43:13,546 - research - INFO - Generated sub-queries: ['黑黴菌 健康風險與過敏反應：分生孢子菌症文獻綜述', '居家環境中黑黴菌的預防與清除方法：專家建議與控制措施', '黑黴菌的生物學特性與孢子繁殖機制：分類與對比分析', '黑黴菌與大廈綜合症關聯：室內空調傳播與案例研究']
+2025-03-26 14:43:13,548 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.009945, "total_cost": 0.01272}}
+2025-03-26 14:43:14,797 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:14,798 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:14,798 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:14,799 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:14,801 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,117 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:43:15,118 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:43:15,119 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:43:15,119 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:15,231 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:43:15,232 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:43:15,232 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:43:15,232 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:43:15,232 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:15,237 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:43:15,238 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:43:15,239 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:43:15,239 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:43:15,239 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:15,249 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:43:15,249 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:43:15,250 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:43:15,250 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:43:15,250 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:15,262 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:43:15,262 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:43:15,262 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:43:15,262 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:43:15,262 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:15,264 - research - INFO - Scraped data size: 5
+2025-03-26 14:43:15,355 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00028266, "total_cost": 0.013002660000000001}}
+2025-03-26 14:43:15,619 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,620 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,770 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,771 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,771 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,772 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,772 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,920 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,920 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,921 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:15,957 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:43:15,958 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:43:15,958 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh/黴菌
+2025-03-26 14:43:15,958 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:16,044 - ycm_researcher.scraper.scraper - INFO - 
+Title: 郭紀子／真的能與病毒共存嗎？再談「防疫建築」與「建築防疫」|  國立政治大學不動產研究中心
+2025-03-26 14:43:16,044 - ycm_researcher.scraper.scraper - INFO - Content length: 9142 characters
+2025-03-26 14:43:16,044 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:43:16,044 - ycm_researcher.scraper.scraper - INFO - URL: https://rer.nccu.edu.tw/article/detail/2208096108156
+2025-03-26 14:43:16,044 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:16,153 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:16,182 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑黴菌是哪一界？ - Tomo's Blog
+2025-03-26 14:43:16,182 - ycm_researcher.scraper.scraper - INFO - Content length: 3365 characters
+2025-03-26 14:43:16,182 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:43:16,182 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/黑黴菌是哪一界？/
+2025-03-26 14:43:16,184 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:16,185 - research - INFO - Scraped data size: 2
+2025-03-26 14:43:16,190 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00014498, "total_cost": 0.01314764}}
+2025-03-26 14:43:16,229 - ycm_researcher.scraper.scraper - INFO - 
+Title: 認識黴菌與人體疾病 –  徐世達醫師－35年過敏氣喘免疫經驗分享
+2025-03-26 14:43:16,230 - ycm_researcher.scraper.scraper - INFO - Content length: 4437 characters
+2025-03-26 14:43:16,230 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:43:16,230 - ycm_researcher.scraper.scraper - INFO - URL: https://dar-allergy.com/2020/06/10/認識黴菌與人體疾病/
+2025-03-26 14:43:16,230 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:16,259 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://inf.news/home/ea01468c08b87e8950964b9317ce5a6b.html
+2025-03-26 14:43:16,306 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:16,306 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:16,309 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:16,309 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:16,311 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:43:16,370 - ycm_researcher.scraper.scraper - INFO - 
+Title: 微生物與健康產業：黴菌與健康| - 科技大觀園
+2025-03-26 14:43:16,370 - ycm_researcher.scraper.scraper - INFO - Content length: 4056 characters
+2025-03-26 14:43:16,370 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:43:16,370 - ycm_researcher.scraper.scraper - INFO - URL: https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=619f7e40-efdd-48d4-a6fe-a1714b15d660
+2025-03-26 14:43:16,372 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:16,374 - ycm_researcher.scraper.scraper - INFO - 
+Title: Cloudflare WAF 連線錯誤頁面
+2025-03-26 14:43:16,374 - ycm_researcher.scraper.scraper - INFO - Content length: 448 characters
+2025-03-26 14:43:16,376 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:43:16,376 - ycm_researcher.scraper.scraper - INFO - URL: https://house.chinatimes.com/20250311002119-264401
+2025-03-26 14:43:16,376 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:16,701 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:16,822 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://hk.aboluowang.com/2025/0207/2171836.html
+2025-03-26 14:43:16,849 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何去除黑黴菌？ - Tomo's Blog
+2025-03-26 14:43:16,849 - ycm_researcher.scraper.scraper - INFO - Content length: 3150 characters
+2025-03-26 14:43:16,849 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:43:16,850 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:43:16,850 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:17,210 - ycm_researcher.scraper.scraper - INFO - 
+Title: 什麼是建築綜合症以及為什麼要予以關注？ | Camfil
+2025-03-26 14:43:17,211 - ycm_researcher.scraper.scraper - INFO - Content length: 2616 characters
+2025-03-26 14:43:17,211 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:43:17,211 - ycm_researcher.scraper.scraper - INFO - URL: https://www.camfil.com/zh-tw/insights/commercial-and-public-buildings/what-is-sick-building-syndrome
+2025-03-26 14:43:17,211 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:17,216 - ycm_researcher.scraper.scraper - INFO - 
+Title: 告別惱人黴菌：全方位居家除霉指南 – 浣熊環保清潔有限公司
+2025-03-26 14:43:17,216 - ycm_researcher.scraper.scraper - INFO - Content length: 1083 characters
+2025-03-26 14:43:17,216 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:43:17,216 - ycm_researcher.scraper.scraper - INFO - URL: https://raccoonclean.com/2024/09/02/告別惱人黴菌：全方位居家除霉指南/
+2025-03-26 14:43:17,218 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:17,355 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:17,358 - research - INFO - Content found for sub-query: 8628 chars
+2025-03-26 14:43:17,385 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:17,385 - ycm_researcher.scraper.scraper - INFO - 
+Title: 炎夏慎防 冷氣病 - 明醫網
+2025-03-26 14:43:17,385 - ycm_researcher.scraper.scraper - INFO - Content length: 3490 characters
+2025-03-26 14:43:17,385 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:43:17,385 - ycm_researcher.scraper.scraper - INFO - URL: https://www.mingpaocanada.com/healthnet/content.php?artid=889
+2025-03-26 14:43:17,385 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:17,391 - research - INFO - Content found for sub-query: 5619 chars
+2025-03-26 14:43:17,399 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 過敏原基本資料、症狀和治療 | Allergy Insider
+2025-03-26 14:43:17,400 - ycm_researcher.scraper.scraper - INFO - Content length: 8106 characters
+2025-03-26 14:43:17,401 - ycm_researcher.scraper.scraper - INFO - Number of images: 9
+2025-03-26 14:43:17,401 - ycm_researcher.scraper.scraper - INFO - URL: https://www.thermofisher.com/allergy/wo/zh_tw/allergen-fact-sheets/mold.html
+2025-03-26 14:43:17,401 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:17,403 - research - INFO - Scraped data size: 3
+2025-03-26 14:43:17,411 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00040684, "total_cost": 0.01355448}}
+2025-03-26 14:43:18,065 - ycm_researcher.scraper.scraper - INFO - 
+Title: 對真菌有許多疑問嗎？解答都放在這裡了！──《菇的呼風喚雨史》 - PanSci 泛科學
+2025-03-26 14:43:18,065 - ycm_researcher.scraper.scraper - INFO - Content length: 15341 characters
+2025-03-26 14:43:18,065 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:43:18,066 - ycm_researcher.scraper.scraper - INFO - URL: https://pansci.asia/archives/150940
+2025-03-26 14:43:18,066 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:43:18,068 - research - INFO - Scraped data size: 4
+2025-03-26 14:43:18,079 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00077864, "total_cost": 0.014333120000000001}}
+2025-03-26 14:43:18,589 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:19,185 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:19,346 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:19,349 - research - INFO - Content found for sub-query: 10729 chars
+2025-03-26 14:43:20,047 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:20,049 - research - INFO - Content found for sub-query: 10461 chars
+2025-03-26 14:43:20,777 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://sf.epochtimes.com/2024/11/15/35697.html
+2025-03-26 14:43:20,777 - research - INFO - Scraped data size: 3
+2025-03-26 14:43:20,781 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00013428, "total_cost": 0.014467400000000002}}
+2025-03-26 14:43:21,428 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:21,856 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:43:21,860 - research - INFO - Content found for sub-query: 5157 chars
+2025-03-26 14:43:21,860 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:43:21,860 - research - INFO - Combined context size: 40598
+2025-03-26 14:43:21,861 - research - INFO - Research completed. Context size: 40598
+2025-03-26 14:43:21,861 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 40598}}
+2025-03-26 14:43:21,862 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:43:23,796 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:43:39,426 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 7888}}
+2025-03-26 14:43:39,429 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.201885, "total_cost": 0.2163524}}
+2025-03-26 14:45:33,006 - research - INFO - research: {"step": "start", "details": {"query": "\u9ed1\u9ef4\u83cc", "report_type": "research_report", "agent": null, "role": null}}
+2025-03-26 14:45:33,007 - research - INFO - action: {"action": "choose_agent"}
+2025-03-26 14:45:34,226 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:45:34,229 - research - INFO - action: {"action": "agent_selected", "details": {"agent": "\ud83e\uddea Science Agent", "role": "You are a knowledgeable AI science assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-structured scientific explanations and reports on various topics, including biology, chemistry, physics, and environmental science."}}
+2025-03-26 14:45:34,230 - research - INFO - research: {"step": "conducting_research", "details": {"agent": "\ud83e\uddea Science Agent", "role": "You are a knowledgeable AI science assistant. Your primary goal is to provide detailed, accurate, unbiased, and well-structured scientific explanations and reports on various topics, including biology, chemistry, physics, and environmental science."}}
+2025-03-26 14:45:34,231 - research - INFO - Starting research for query: 黑黴菌
+2025-03-26 14:45:34,231 - research - INFO - Using web search
+2025-03-26 14:45:34,231 - research - INFO - Starting web search for query: 黑黴菌
+2025-03-26 14:45:34,231 - research - INFO - Planning research for query: 黑黴菌
+2025-03-26 14:45:36,242 - research - INFO - Initial search results obtained: 10 results
+2025-03-26 14:45:36,493 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.002805, "total_cost": 0.002805}}
+2025-03-26 14:46:18,186 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:46:18,190 - research - INFO - Research outline planned: ['黑黴菌 健康風險 過敏反應 分生孢子菌症 最新研究 2025', '室內環境 黑黴菌 大廈綜合症 預防與控制 方法', '如何去除黑黴菌 使用含氯漂白劑 與有效通風的清潔指南', '黑黴菌 與黑曲霉 工業用途 差異 定義與食品發酵應用解析']
+2025-03-26 14:46:18,190 - research - INFO - Generated sub-queries: ['黑黴菌 健康風險 過敏反應 分生孢子菌症 最新研究 2025', '室內環境 黑黴菌 大廈綜合症 預防與控制 方法', '如何去除黑黴菌 使用含氯漂白劑 與有效通風的清潔指南', '黑黴菌 與黑曲霉 工業用途 差異 定義與食品發酵應用解析']
+2025-03-26 14:46:18,192 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.0099, "total_cost": 0.012705000000000001}}
+2025-03-26 14:46:20,345 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,345 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,348 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,349 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,349 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,458 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,458 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,459 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,460 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:46:20,461 - ycm_researcher.scraper.scraper - WARNING - Content too short or empty for https://www.commonhealth.com.tw/article/61641
+2025-03-26 14:46:20,689 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,689 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,690 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,690 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,692 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,692 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,694 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,720 - ycm_researcher.scraper.scraper - INFO - 
+Title: 微生物與健康產業：黴菌與健康| - 科技大觀園
+2025-03-26 14:46:20,721 - ycm_researcher.scraper.scraper - INFO - Content length: 4046 characters
+2025-03-26 14:46:20,721 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:46:20,721 - ycm_researcher.scraper.scraper - INFO - URL: https://scitechvista.nat.gov.tw/Article/c000008/detail?ID=619f7e40-efdd-48d4-a6fe-a1714b15d660
+2025-03-26 14:46:20,722 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:20,722 - ycm_researcher.scraper.scraper - INFO - 
+=== Using PyMuPDFScraper ===
+2025-03-26 14:46:20,846 - ycm_researcher.scraper.scraper - INFO - 
+Title: 習慣成自然，4個簡單的浴室清潔妙招，秒殺難纏黑黴菌！｜鈴木太太
+2025-03-26 14:46:20,846 - ycm_researcher.scraper.scraper - INFO - Content length: 2466 characters
+2025-03-26 14:46:20,848 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:46:20,848 - ycm_researcher.scraper.scraper - INFO - URL: https://loveiizakka.com/article/fb8f34cc-02f9-41a1-8d80-5795785b5daa
+2025-03-26 14:46:20,849 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:20,849 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,860 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑黴菌，一種無聲的入侵者 - I'm Biotechnology
+2025-03-26 14:46:20,860 - ycm_researcher.scraper.scraper - INFO - Content length: 1808 characters
+2025-03-26 14:46:20,861 - ycm_researcher.scraper.scraper - INFO - Number of images: 5
+2025-03-26 14:46:20,861 - ycm_researcher.scraper.scraper - INFO - URL: https://imbio.group/健康/黑黴菌，一種無聲的入侵者/?lang=zh-hant
+2025-03-26 14:46:20,861 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:20,861 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,863 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌介紹》種類、生長條件與作用 | 振泰檢驗JTS
+2025-03-26 14:46:20,864 - ycm_researcher.scraper.scraper - INFO - Content length: 2864 characters
+2025-03-26 14:46:20,864 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:46:20,865 - ycm_researcher.scraper.scraper - INFO - URL: https://www.stst.com.tw/class/id=1176
+2025-03-26 14:46:20,865 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:20,903 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,973 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黑麴黴 - 維基百科，自由的百科全書
+2025-03-26 14:46:20,975 - ycm_researcher.scraper.scraper - INFO - Content length: 1298 characters
+2025-03-26 14:46:20,976 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:46:20,977 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黑曲霉
+2025-03-26 14:46:20,977 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:20,977 - ycm_researcher.scraper.scraper - INFO - 
+=== Using BeautifulSoupScraper ===
+2025-03-26 14:46:20,980 - ycm_researcher.scraper.scraper - INFO - 
+Title: 5種狀況可能是黴菌過敏的高風險群！ – 過敏免疫風濕科—許伯爵醫師專業分享網誌
+2025-03-26 14:46:20,980 - ycm_researcher.scraper.scraper - INFO - Content length: 3021 characters
+2025-03-26 14:46:20,981 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:46:20,981 - ycm_researcher.scraper.scraper - INFO - URL: https://dr-immune.com/2020/05/15/看不見的過敏，在每一次呼吸：黴菌過敏/
+2025-03-26 14:46:20,982 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,004 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:46:21,004 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:46:21,004 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/wiki/黴菌
+2025-03-26 14:46:21,004 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,089 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.mxeduc.org.tw/scienceaward/history/projectDoc/6th/doc/SA6-090_final.pdf: too many values to unpack (expected 3)
+2025-03-26 14:46:21,092 - research - INFO - Scraped data size: 3
+2025-03-26 14:46:21,097 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00020296, "total_cost": 0.012907960000000001}}
+2025-03-26 14:46:21,204 - ycm_researcher.scraper.scraper - INFO - 
+Title: 浴室黴菌易誘發過敏 做到5點徹底除黴菌 | 浴室清潔 | 紅黴菌 | 黑黴菌 | 大紀元
+2025-03-26 14:46:21,207 - ycm_researcher.scraper.scraper - INFO - Content length: 2926 characters
+2025-03-26 14:46:21,207 - ycm_researcher.scraper.scraper - INFO - Number of images: 7
+2025-03-26 14:46:21,211 - ycm_researcher.scraper.scraper - INFO - URL: https://www.epochtimes.com/b5/23/7/28/n14043848.htm
+2025-03-26 14:46:21,211 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,211 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 過敏原基本資料、症狀和治療 | Allergy Insider
+2025-03-26 14:46:21,212 - ycm_researcher.scraper.scraper - INFO - Content length: 8118 characters
+2025-03-26 14:46:21,212 - ycm_researcher.scraper.scraper - INFO - Number of images: 9
+2025-03-26 14:46:21,212 - ycm_researcher.scraper.scraper - INFO - URL: https://www.thermofisher.com/allergy/tw/zh/allergen-fact-sheets/mold.html
+2025-03-26 14:46:21,213 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,213 - research - INFO - Scraped data size: 4
+2025-03-26 14:46:21,220 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00037028, "total_cost": 0.013278240000000002}}
+2025-03-26 14:46:21,406 - ycm_researcher.scraper.scraper - ERROR - Error processing https://www.iaq.gov.hk/wp-content/uploads/2021/08/slides-for-indoor-mould-part-2-chi.pdf: too many values to unpack (expected 3)
+2025-03-26 14:46:21,424 - ycm_researcher.scraper.scraper - INFO - 
+Title: 11 種有效減輕室內黴菌過敏症狀的方法 | Allergy Insider
+2025-03-26 14:46:21,424 - ycm_researcher.scraper.scraper - INFO - Content length: 7352 characters
+2025-03-26 14:46:21,424 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:46:21,426 - ycm_researcher.scraper.scraper - INFO - URL: https://www.thermofisher.com/allergy/tw/zh/living-with-allergies/understanding-allergies/ways-to-reduce-indoor-mold-allergy.html
+2025-03-26 14:46:21,426 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,472 - ycm_researcher.scraper.scraper - INFO - 
+Title: 如何去除黑黴菌？ - Tomo's Blog
+2025-03-26 14:46:21,472 - ycm_researcher.scraper.scraper - INFO - Content length: 3150 characters
+2025-03-26 14:46:21,473 - ycm_researcher.scraper.scraper - INFO - Number of images: 1
+2025-03-26 14:46:21,473 - ycm_researcher.scraper.scraper - INFO - URL: https://imarkettomo.cc/如何去除黑黴菌？/
+2025-03-26 14:46:21,473 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,496 - ycm_researcher.scraper.scraper - INFO - 
+Title: 家庭去除黴菌的三種方法，讓您擺脫黴菌的困擾！
+2025-03-26 14:46:21,496 - ycm_researcher.scraper.scraper - INFO - Content length: 4740 characters
+2025-03-26 14:46:21,497 - ycm_researcher.scraper.scraper - INFO - Number of images: 10
+2025-03-26 14:46:21,497 - ycm_researcher.scraper.scraper - INFO - URL: https://lifeonea.com/4400/
+2025-03-26 14:46:21,497 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,502 - ycm_researcher.scraper.scraper - INFO - 
+Title: 漂白水可以殺死黴菌嗎？7個正確使用方法大公開
+2025-03-26 14:46:21,503 - ycm_researcher.scraper.scraper - INFO - Content length: 3404 characters
+2025-03-26 14:46:21,503 - ycm_researcher.scraper.scraper - INFO - Number of images: 3
+2025-03-26 14:46:21,503 - ycm_researcher.scraper.scraper - INFO - URL: https://clean520.tw/bleach-kills-mold/
+2025-03-26 14:46:21,504 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,505 - research - INFO - Scraped data size: 5
+2025-03-26 14:46:21,512 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.0005006, "total_cost": 0.013778840000000002}}
+2025-03-26 14:46:21,653 - ycm_researcher.scraper.scraper - INFO - 
+Title: 
+	101 年度健康室內環境品質推廣計畫
+
+2025-03-26 14:46:21,653 - ycm_researcher.scraper.scraper - INFO - Content length: 9207 characters
+2025-03-26 14:46:21,653 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:46:21,653 - ycm_researcher.scraper.scraper - INFO - URL: https://www.abri.gov.tw/News_Content_Table.aspx?n=807&s=39015
+2025-03-26 14:46:21,656 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,656 - ycm_researcher.scraper.scraper - INFO - 
+Title: 
+	綠建築與居住環境評估指標之研究－建築室內環境保健控制綜合指標之研究
+
+2025-03-26 14:46:21,660 - ycm_researcher.scraper.scraper - INFO - Content length: 5353 characters
+2025-03-26 14:46:21,660 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:46:21,661 - ycm_researcher.scraper.scraper - INFO - URL: https://www.abri.gov.tw/News_Content_Table.aspx?n=807&s=37925
+2025-03-26 14:46:21,661 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,732 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 - 維基百科，自由的百科全書
+2025-03-26 14:46:21,732 - ycm_researcher.scraper.scraper - INFO - Content length: 2017 characters
+2025-03-26 14:46:21,732 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:46:21,732 - ycm_researcher.scraper.scraper - INFO - URL: https://zh.wikipedia.org/zh-tw/黴菌
+2025-03-26 14:46:21,734 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:21,903 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:22,244 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:22,359 - ycm_researcher.scraper.scraper - INFO - Content length: 2055 characters
+2025-03-26 14:46:22,359 - ycm_researcher.scraper.scraper - INFO - Number of images: 8
+2025-03-26 14:46:22,359 - ycm_researcher.scraper.scraper - INFO - URL: https://www.archdaily.cn/cn/939343/ru-he-jian-shao-hei-mei-jun-dui-jian-zhu-yu-ren-lei-de-wei-hai
+2025-03-26 14:46:22,359 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:22,361 - research - INFO - Scraped data size: 4
+2025-03-26 14:46:22,370 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00044118, "total_cost": 0.014220020000000002}}
+2025-03-26 14:46:22,585 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:22,586 - research - INFO - Content found for sub-query: 8441 chars
+2025-03-26 14:46:22,935 - ycm_researcher.scraper.scraper - INFO - 
+Title: 黴菌 – 生態 ∫環境 ∫文化 
+2025-03-26 14:46:22,935 - ycm_researcher.scraper.scraper - INFO - Content length: 2226 characters
+2025-03-26 14:46:22,939 - ycm_researcher.scraper.scraper - INFO - Number of images: 0
+2025-03-26 14:46:22,939 - ycm_researcher.scraper.scraper - INFO - URL: https://nec.roster.tw/2024/12/22/mildew/
+2025-03-26 14:46:22,939 - ycm_researcher.scraper.scraper - INFO - ==================================================
+2025-03-26 14:46:22,940 - research - INFO - Scraped data size: 2
+2025-03-26 14:46:22,944 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.00011126, "total_cost": 0.014331280000000002}}
+2025-03-26 14:46:23,187 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:23,189 - research - INFO - Content found for sub-query: 10798 chars
+2025-03-26 14:46:23,361 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:23,509 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:23,592 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:24,136 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:24,140 - research - INFO - Content found for sub-query: 5113 chars
+2025-03-26 14:46:24,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:24,299 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-26 14:46:24,303 - research - INFO - Content found for sub-query: 11232 chars
+2025-03-26 14:46:24,303 - research - INFO - Content found for sub-query: 11034 chars
+2025-03-26 14:46:24,304 - research - INFO - Gathered context from 5 sub-queries
+2025-03-26 14:46:24,304 - research - INFO - Combined context size: 46622
+2025-03-26 14:46:24,304 - research - INFO - Research completed. Context size: 46622
+2025-03-26 14:46:24,304 - research - INFO - research: {"step": "research_completed", "details": {"context_length": 46622}}
+2025-03-26 14:46:24,305 - research - INFO - research: {"step": "writing_report", "details": {"existing_headers": [], "context_source": "internal"}}
+2025-03-26 14:46:26,762 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 14:46:44,064 - research - INFO - research: {"step": "report_completed", "details": {"report_length": 8215}}
+2025-03-26 14:46:44,075 - research - INFO - research: {"step": "cost_update", "details": {"cost": 0.23442000000000002, "total_cost": 0.24875128000000002}}
